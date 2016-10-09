@@ -15,10 +15,10 @@ Mes réalisations :
 
 > <a href="https://play.google.com/store/apps/details?id=com.italikdesign.pont.chaban&hl=fr">Les levées du Pont Chaban Delmas Bordeaux (Android)</a>,
 
-> Les levées du Pont Chaban Delmas Bordeaux (IOS),
+> <a href="https://itunes.apple.com/fr/app/le-pont-chaban-delmas-bordeaux/id663031214?mt=8">Les levées du Pont Chaban Delmas Bordeaux (IOS)</a>,
 
-> TrouveTonJob.fr (service de réalisations de CV et Lettres de motivation),
+> <a href="http://trouvetonjob.fr/">TrouveTonJob.fr (service de réalisations de CV et Lettres de motivation)</a>,
 
-> CvBranding.com (Personnel branding via les réseaux professionnels).
+> <a href="http://cvbranding.com/">CvBranding.com (Personnel branding via les réseaux professionnels)</a>.
 
 
