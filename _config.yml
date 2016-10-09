@@ -5,7 +5,8 @@ email: italikdesignbordeaux@gmail.com
 author: marlenech
 
 description: > # this means to ignore newlines until "baseurl:"
- Suivez la réalisation d'une appli mobile qui convertit un salaire brut en net via Android.
+ Suivez la réalisation d'une appli mobile qui convertit 
+ un salaire brut en net via Android.
   Projet à suivre sur <a href="http://github.com/marlenech" class="deactivate-link"><span> GitHub </span></a>
 
 url: "http://marlenech.gitub.io" # the base hostname & protocol for your site
