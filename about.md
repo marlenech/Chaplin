@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-author: Charlie
+author: Marlène
 permalink: /about/
 ---
 
