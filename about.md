@@ -11,6 +11,7 @@ Aujourd'hui, je travaille dans le service social d'un cabinet comptable, je m'oc
 
 En parallèle, j'ai commencé par développer des petits sites web pour des projets personnels, puis je me suis intéressée tout particulèrement au développement sur mobile, <span class="highlight-span">Android et IOS</span>.
 
+
 Mes réalisations :
 
 > <a href="https://play.google.com/store/apps/details?id=com.italikdesign.pont.chaban&hl=fr">Les levées du Pont Chaban Delmas Bordeaux (Android)</a>,
