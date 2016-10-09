@@ -5,7 +5,7 @@ author: Marlène
 permalink: /about/
 ---
 
-Hi! My name is <span class="highlight-span">Charlie</span>!
+Hi! My name is <span class="highlight-span">Marlène</span>!
 
 > We think too much and feel too little.
 
