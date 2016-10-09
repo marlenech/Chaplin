@@ -13,7 +13,7 @@ En parallèle, j'ai commencé par développer des petits sites web pour des proj
 
 Mes réalisations :
 
-> Les levées du Pont Chaban Delmas Bordeaux (Android),
+> <a href="https://play.google.com/store/apps/details?id=com.italikdesign.pont.chaban&hl=fr">Les levées du Pont Chaban Delmas Bordeaux (Android)</a>,
 
 > Les levées du Pont Chaban Delmas Bordeaux (IOS),
 
