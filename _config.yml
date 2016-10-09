@@ -5,9 +5,8 @@ email: italikdesignbordeaux@gmail.com
 author: marlenech
 
 description: > # this means to ignore newlines until "baseurl:"
-  Chaplin is a minimalistic, mobile friendly theme for Jekyll.
-  The Documentation for it is available on this website itself. 
-  You can check out the source on <a href="http://github.com/bk2dcradle/Chaplin" class="deactivate-link"><span> GitHub </span></a>
+ Suivez la réalisation d'une appli mobile qui convertit un salaire brut en net via Android.
+  Projet à suivre sur <a href="http://github.com/marlenech" class="deactivate-link"><span> GitHub </span></a>
 
 url: "http://marlenech.gitub.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
