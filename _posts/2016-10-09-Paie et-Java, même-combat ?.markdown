@@ -39,5 +39,5 @@ L'idée, c'est de :
 
 Il est temps pour moi de vous abandonner à ces premières fondations, en attendant le prochain épisode !
 
-<img scr="http://www.reactiongifs.com/wp-content/uploads/2013/07/exhausted.gif"/>
+<img src="http://www.reactiongifs.com/wp-content/uploads/2013/07/exhausted.gif"/>
 
