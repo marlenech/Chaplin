@@ -1,40 +1,43 @@
 ---
 ---
 
-### Installation
+### Il y a quelques jours...
 
-Installation is easy. Simply download the theme [here](http://github.com/bk2dcradle/Chaplin/archive/gh-pages.zip) and run `bundle exec jekyll serve` inside the directory.
+...j'ai pensé à une chose toute bête : réaliser un projet qui allie mon boulot à ma passion.
 
-However, before going live, set the following variables in `_config.yml`
+Mon boulot c'est gestionnaire de paie. Je réalise les bulletins de paie des salariés de divers secteurs, du boucher du quartier au gérant de multi-établissements. Ma passion personnelle, c'est le code, du Java au PHP en passant par le CSS, le Swift, etc.
 
-1. `url` : This is the base url of your website. If you are hosting on GitHub, it should be set to `http://your-username.github.io` for example.
-2. `baseurl` : This is the subpath of your site. If you are hosting on GitHub, in a repository named `Blog`, then it should be set to `/blog`.
-3. `tracking_id` : Set this to your google analytics tracking id.
+Et puis j'ai pensé à débuter ce projet par un blog que voici, pour vous faire partager les différentes étapes de ce projet. 
 
-Change other variables under *User Settings* in `_config.yml` as you see fit. 
+### 3h32 plus tard...
 
-*Note:* Don't change any variable under *Build Settings*.
+Le Projet : Une application Android qui convertit un salaire brut en net
 
----
+Il existe plusieurs applications sur le store qui proposent ce type d'outils, mais la plupart fonctionnent sur la base d'un taux moyen de charges salariales et n'indiquent pas le taux de charges patronales. 
 
-### Usage
+L'idée ici serait de renseigner les véritables taux et les mettre à jour via une base de données externe pour obtenir un algorithme plus fiable, en fonction de la situation du salarié, voir de son secteur d'activité.
 
-* To change the font for the heading, change the `heading_font` variable in `_config.yml`
+Le Fondement : 
 
-* To create a new post, simply save the `.markdown` file in the `_posts` directory in the format.
+Pou mener à bien le projet, il me faudra réaliser une première application, qui sera plutôt perso, pour me permettre de mettre à jour facilement la base de données contenant l'ensemble des taux et autres éléments. Je pourrais tout à fait ne pas passer par une appli et me contenter d'une page web, mais comme c'est un projet Android, autant rester sous Android jusqu'au bout. 
 
-{% highlight text %}
-year-month-day-name-of-the-file.markdown
-{% endhighlight %}
+Pour celà, il me faut :
+- créer une application avec un menu facile d'accès, répertoriant les différentes familles de taux et de données nécessaires à l'établissement d'un salaire,
+- ouvrir une base de données externe, capable d'accueillir l'ensemble des éléments de salaire,
+- programmer l'application pour qu'elle soit capable d'accéder à la base et qu'elle puisse la mettre à jour
 
-* For Syntax highlighting, Chaplin uses *Rouge* which is the default highlighter in Jekyll 3 and above. If you don't know how to highlight a code block, [refer](http://jekyllrb.com/docs/templates/).
+Puis, il me restera à réaliser l'application publique, à publier sur le Play Store, proposant l'outil de conversion.
 
-* To set up Google Analytics tracking id, just set the `tracking_id` variable in `_config.yml`. You also need to set `google_analytics` to `true`
+L'idée, c'est de :
+- créer une interface intuitive pour permettre à l'utilisateur d'obtenir rapidement et simplement la conversion de manière relativement fiable,
+- minimiser au maximum les éléments à renseigner par l'utilisateur pour obtenir sa conversion,
+- optimiser le temps de chargement et de calcul de la conversion,
+- proposer des données précises à l'utilisateur,
+- réfléchir à un modèle économique
 
-* To use Disqus for Comments, copy the *universal code* from disqus' website, and copy it in `_includes/disqus.html`.
+### 4h16 plus tard...
 
----
+Il est temps pour moi de vous abandonner à ces premières fondations, en attendant le prochain épisode !
 
-### License
+<a scr="http://www.reactiongifs.com/wp-content/uploads/2013/07/exhausted.gif"></a>
 
-MIT. Copyright (c) [Ankit Sultana](http://twitter.com/AnkitSultana)
