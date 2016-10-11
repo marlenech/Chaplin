@@ -11,13 +11,13 @@ Et puis j'ai pensé à débuter ce projet par un blog que voici, pour vous faire
 
 ### 3h32 plus tard...
 
-Le Projet : Une application Android qui convertit un salaire brut en net
+> Le Projet : Une application Android qui convertit un salaire brut en net
 
 Il existe plusieurs applications sur le store qui proposent ce type d'outils, mais la plupart fonctionnent sur la base d'un taux moyen de charges salariales et n'indiquent pas le taux de charges patronales. 
 
 L'idée ici serait de renseigner les véritables taux et les mettre à jour via une base de données externe pour obtenir un algorithme plus fiable, en fonction de la situation du salarié, voir de son secteur d'activité.
 
-Le Fondement : 
+> Le Fondement : 
 
 Pou mener à bien le projet, il me faudra réaliser une première application, qui sera plutôt perso, pour me permettre de mettre à jour facilement la base de données contenant l'ensemble des taux et autres éléments. Je pourrais tout à fait ne pas passer par une appli et me contenter d'une page web, mais comme c'est un projet Android, autant rester sous Android jusqu'au bout. 
 
