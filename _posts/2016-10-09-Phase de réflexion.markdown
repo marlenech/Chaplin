@@ -19,7 +19,7 @@ L'idée ici serait de renseigner les véritables taux et les mettre à jour via 
 
 > Le Fondement : 
 
-Pou mener à bien le projet, il me faudra réaliser une première application, qui sera plutôt perso, pour me permettre de mettre à jour facilement la base de données contenant l'ensemble des taux et autres éléments. Je pourrais tout à fait ne pas passer par une appli et me contenter d'une page web, mais comme c'est un projet Android, autant rester sous Android jusqu'au bout. 
+Pour mener à bien le projet, il me faudra réaliser une première application, qui sera plutôt perso, pour me permettre de mettre à jour facilement la base de données contenant l'ensemble des taux et autres éléments. Je pourrais tout à fait ne pas passer par une appli et me contenter d'une page web, mais comme c'est un projet Android, autant rester sous Android jusqu'au bout. 
 
 Pour celà, il me faut :
 
