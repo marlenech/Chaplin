@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
  
  Projet à suivre sur <a href="http://github.com/marlenech" class="deactivate-link"><span> GitHub </span></a>
 
-url: "http://marlenech.gitub.io" # the base hostname & protocol for your site
+url: "http://marlenech.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ItalikDesign
 github_username:  marlenech
