@@ -20,6 +20,6 @@ Mes réalisations :
 
 > <a href="http://trouvetonjob.fr/">TrouveTonJob.fr (service de réalisations de CV et Lettres de motivation)</a>,
 
-> <a href="http://cvbranding.com/">CvBranding.com (Personnel branding via les réseaux professionnels)</a>.
+> <a href="http://cvbranding.com/">CvBranding.com (Personal branding via les réseaux sociaux professionnels)</a>.
 
 
