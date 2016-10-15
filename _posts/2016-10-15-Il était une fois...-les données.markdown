@@ -3,7 +3,9 @@
 
 Les bases de tout bulletin de salaire, ce sont les données. Ces données, ça va être bien sûr le salaire brut mais aussi tous les taux de cotisations et les éléments à prendre en compte pour mes formules de calculs. Ainsi, je vais avoir par exemple à prendre en considération le plafond de la sécurité sociale, nécessaire pour déterminer à quel moment je dépasserai les cotisations appelées sur la première tranche, les taux de cotisations maladies, vieillesse, allocations familiales, la CSG/CRDS, la retraite et prévoyance, etc. Il faudra également que j'adapte ces taux selon qu'ils soient salariales ou patronales, mais aussi en fonction des statuts cadres et non-cadres.
 
-Mon boulot c'est gestionnaire de paie. Je réalise les bulletins de paie des salariés de divers secteurs, du boucher du quartier au gérant de multi-établissements. Ma passion personnelle, c'est le code, du Java au PHP en passant par le CSS, le Swift, etc.
+Au boulot, les données générales au sein de notre logiciel paie sont renseignées ainsi :
+
+<img src="http://www.reactiongifs.com/wp-content/uploads/2013/07/exhausted.gif"/>
 
 Et puis j'ai pensé à débuter ce projet par un blog que voici, pour vous faire partager les différentes étapes de ce projet. 
 
