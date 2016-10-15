@@ -13,7 +13,9 @@ Chaque famille de données est renseignée dans des onglets différents, avec po
 
 Allez je me lance, je créé mon projet sous Android Studio. Enfin... quand on crée un projet sur Android Studio, souvent, on lance d'abord les mises à jour (les SDK Google, ou kits de développement, qui permettent d'obtenir l'ensemble des outils nécessaires au développement d'une appli, sont sans cesse mis à jour pour prendre en compte les dernières fonctionnalités et dernières versions d'Android). Et là... et là... il faut patienter... encore et encore...
 
+<img src="http://www.reactiongifs.com/r/aawt.gif"/>
 
+Bon, en même temps moi, j'en profite pour écrire le blog !
 
 > Le premier visuel de la base de donnée sous Android
 
