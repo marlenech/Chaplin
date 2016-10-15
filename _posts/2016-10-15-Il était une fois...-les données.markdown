@@ -9,6 +9,12 @@ Au boulot, les données générales au sein de notre logiciel paie sont renseign
 
 Chaque famille de données est renseignée dans des onglets différents, avec pour certaines d'entre  elles, la différenciation entre la taux salarial et le taux patronal. 
 
+### 2h20 plus tard...
+
+Allez je me lance, je créé mon projet sous Android Studio. Enfin... quand on crée un projet sur Android Studio, souvent, on lance d'abord les mises à jour (les SDK Google, ou kits de développement, qui permettent d'obtenir l'ensemble des outils nécessaires au développement d'une appli, sont sans cesse mis à jour pour prendre en compte les dernières fonctionnalités et dernières versions d'Android). Et là... et là... il faut patienter... encore et encore...
+
+
+
 > Le premier visuel de la base de donnée sous Android
 
 Il existe plusieurs applications sur le store qui proposent ce type d'outils, mais la plupart fonctionnent sur la base d'un taux moyen de charges salariales et n'indiquent pas le taux de charges patronales. 
