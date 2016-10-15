@@ -7,11 +7,9 @@ Au boulot, les données générales au sein de notre logiciel paie sont renseign
 
 <img src="/img/image.png"/>
 
-Et puis j'ai pensé à débuter ce projet par un blog que voici, pour vous faire partager les différentes étapes de ce projet. 
+Chaque famille de données est renseignée dans des onglets différents, avec pour certaines d'entre  elles, la différenciation entre la taux salarial et le taux patronal. 
 
-### 3h32 plus tard...
-
-> Le Projet : Une application Android qui convertit un salaire brut en net
+> Le premier visuel de la base de donnée sous Android
 
 Il existe plusieurs applications sur le store qui proposent ce type d'outils, mais la plupart fonctionnent sur la base d'un taux moyen de charges salariales et n'indiquent pas le taux de charges patronales. 
 
