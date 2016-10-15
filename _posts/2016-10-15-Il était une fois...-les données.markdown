@@ -5,7 +5,8 @@ Les bases de tout bulletin de salaire, ce sont les données. Ces données, ça v
 
 Au boulot, les données générales au sein de notre logiciel paie sont renseignées ainsi :
 
-<img src="https://github.com/marlenech/marlenech.github.io/blob/master/img/image.png"/>
+<img src="img/image.png"/>
+
 Et puis j'ai pensé à débuter ce projet par un blog que voici, pour vous faire partager les différentes étapes de ce projet. 
 
 ### 3h32 plus tard...
