@@ -9,13 +9,15 @@ Au boulot, les données générales au sein de notre logiciel paie sont renseign
 
 Chaque famille de données est renseignée dans des onglets différents, avec pour certaines d'entre  elles, la différenciation entre le taux salarial et le taux patronal. 
 
-### 2h20 plus tard...
-
 Allez je me lance, je créé mon projet sous Android Studio. Enfin... la création d'un projet sous Android Studio demande souvent en amont d'effectuer les mises à jour des SDK, voir du logiciel (les SDK, ou kits de développement, qui permettent d'obtenir l'ensemble des outils nécessaires au développement d'une appli, sont sans cesse mis à jour pour prendre en compte les dernières fonctionnalités et dernières versions d'Android). Et là... et là... il faut patienter... encore et encore...
 
 <img src="http://www.reactiongifs.com/r/aawt.gif"/>
 
 Bon, en même temps, moi j'en profite pour écrire le blog !
+
+### 2h20 plus tard...(c'était une grosse mise à jour!)
+
+
 
 > Le premier visuel de la base de donnée sous Android
 
