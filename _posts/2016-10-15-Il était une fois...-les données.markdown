@@ -15,7 +15,7 @@ Allez je me lance, je créé mon projet sous Android Studio. Enfin... quand on c
 
 <img src="http://www.reactiongifs.com/r/aawt.gif"/>
 
-Bon, en même temps moi, j'en profite pour écrire le blog !
+Bon, en même temps, moi j'en profite pour écrire le blog !
 
 > Le premier visuel de la base de donnée sous Android
 
