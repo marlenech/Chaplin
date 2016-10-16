@@ -7,7 +7,7 @@ Au cabinet dans lequel je travaille, les données générales au sein de notre l
 
 <img src="/img/image.png"/>
 
-Chaque famille de données est renseignée dans des onglets différents, avec pour certaines d'entre  elles, la différenciation entre le taux salarial et le taux patronal. Ces données vont ensuite être intégrées dans les bulletins de salaire et/ou les formules de calcul nécessaires à l'établissement des bulletins. Viennent s'ajouter également les données liées aux conventions collectives, aux fiches salariés, etc.
+Chaque famille de données est renseignée dans des onglets différents, avec pour certaines d'entre  elles, la différenciation entre le taux salarial et le taux patronal. Ces données vont ensuite être intégrées dans les bulletins de salaire et/ou dans les formules de calcul nécessaires à l'établissement des bulletins. Viennent s'ajouter également les données liées aux conventions collectives, aux fiches salariés, etc.
 
 Ainsi, il va me falloir dans mon appli intégrer la plupart de ces informations pour obtenir par la suite une conversion fiable d'un salaire brut à un salaire net.
 
@@ -17,7 +17,7 @@ Allez je me lance, je créé mon appli de gestion de ma base de données sous An
 
 Bon, en même temps, moi j'en profite pour écrire le blog !
 
-<i Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html>ici</a></i>
+<i>Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html>ici</a></i>
 
 ### 2h20 plus tard...(c'était une grosse mise à jour!)
 
@@ -29,7 +29,7 @@ Sous Android, on appelle les différentes fenêtres qui s'affichent à l'écran 
 
 Il est nécessaire de définir des attributs pour chaque élément (widgets) de la vue (text, editText, button, etc) et les placer en fonction de l'écran, puis des éléments "parents" mais également des widgets entre eux.
 
-Heureusement plusieurs types de "layout" (type de mise en page) existent pour faciliter <s>légèrement</s> la création des vues. Je me suis alors basée sur une mise en page du type tableau : le gridlayout. Il permet alors de positionner les éléments à la manière d'une insertion dans un tableau.
+Heureusement plusieurs types de "layout" (type de mise en page) existent pour faciliter <s>légèrement</s> la création des vues. Je me suis alors basée sur une mise en page de type tableau : le gridlayout. Il permet alors de positionner les éléments à la manière d'une insertion dans un tableau.
 
 > Le premier visuel de l'appli qui va gérer la base de donnée sous Android
 
