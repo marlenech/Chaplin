@@ -17,7 +17,7 @@ Allez je me lance, je créé mon appli de gestion de ma base de données sous An
 
 Bon, en même temps, moi j'en profite pour écrire le blog !
 
-<i>Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html>ici</a></i>
+> Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html">ici</a>
 
 ### 2h20 plus tard...(c'était une grosse mise à jour!)
 
