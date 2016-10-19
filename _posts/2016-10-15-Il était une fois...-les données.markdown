@@ -17,7 +17,7 @@ Allez je me lance, je créé mon appli de gestion de ma base de données sous An
 
 Bon, en même temps, moi j'en profite pour écrire le blog !
 
-> Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html">ici</a>.§b 
+> Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html">ici</a>.
 
 ### et 2h20 plus tard...(c'était une grosse mise à jour!) 
 
@@ -33,19 +33,19 @@ Heureusement plusieurs types de "layout" (type de mise en page) existent pour fa
 
 Après avoir créé un petit logo pour l'appli, j'ai réalisé un premier visuel de l'interface de l'appli. Voici une capture d'écran de l'interface "URSSAF" :
 
-<img src="https://github.com/marlenech/marlenech.github.io/blob/master/img/Screenshot_1476866687.png"/>
+<img src="/img/Screenshot_1476866687.png"/>
 
 Le code source de l'interface est disponible <a href="https://github.com/marlenech/BddPaye/blob/master/app/src/main/res/layout/fragment_urssaf.xml">ici</a>.
 
 Et voici le menu principal de l'appli :
 
-<img src="https://github.com/marlenech/marlenech.github.io/blob/master/img/Screenshot_1476866716.png"/>
+<img src="/img/Screenshot_1476866716.png"/>
 
 Voilà, maintenant que j'ai construit au moins une interface, il va me falloir réfléchir à ce que je vais utiliser comme méthode d'échange des données (fournisseur de contenu, web, base de données sql, etc) et la tester sur cette première interface avant de continuer la réalisation de l'ensemble des interfaces.
 
 Mais avant tout, nous sommes mercredi, la journée des enfants, et c'est le réveil de mon petit ogre de 2 ans alors si je n'y vais pas tout de suite, je vais finir comme ça :
 
-<img src="http://maguy69.centerblog.net/voir-photo?u=http://maguy69.m.a.pic.centerblog.net/e6f84f86.gif"/>
+<img src="http://maguy69.m.a.pic.centerblog.net/e6f84f86.gif"/>
 
 A bientôt !
 
