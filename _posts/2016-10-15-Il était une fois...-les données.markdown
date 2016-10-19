@@ -33,7 +33,7 @@ Heureusement plusieurs types de "layout" (type de mise en page) existent pour fa
 
 Après avoir créé un petit logo pour l'appli, j'ai réalisé un premier visuel de l'interface de l'appli. Voici une capture d'écran de l'interface "URSSAF" :
 
-<img src="/img/Screenshot_1476866687.png"/>
+<img src="/img/screenshot1.png"/>
 
 Le code source de l'interface est disponible <a href="https://github.com/marlenech/BddPaye/blob/master/app/src/main/res/layout/fragment_urssaf.xml">ici</a>.
 
