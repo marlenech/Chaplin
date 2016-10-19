@@ -39,7 +39,7 @@ Le code source de l'interface est disponible <a href="https://github.com/marlene
 
 Et voici le menu principal de l'appli :
 
-<img src="/img/Screenshot_1476866716.png"/>
+<img src="/img/screenshot2.png"/>
 
 Voilà, maintenant que j'ai construit au moins une interface, il va me falloir réfléchir à ce que je vais utiliser comme méthode d'échange des données (fournisseur de contenu, web, base de données sql, etc) et la tester sur cette première interface avant de continuer la réalisation de l'ensemble des interfaces.
 
