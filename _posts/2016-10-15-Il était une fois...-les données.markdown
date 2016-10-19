@@ -19,7 +19,7 @@ Bon, en même temps, moi j'en profite pour écrire le blog !
 
 > Petite parenthèse : Android Studio, c'est le logiciel préconisé par Google pour le développement d'applications Android. Il est disponible gratuitement <a href="https://developer.android.com/studio/index.html">ici</a>.§b 
 
-### 2h20 plus tard...(c'était une grosse mise à jour!) 
+### et 2h20 plus tard...(c'était une grosse mise à jour!) 
 
 Sous Android, on appelle les différentes fenêtres qui s'affichent à l'écran des "vues". Pour réaliser une vue, ça se passe un peu comme ça :
 
@@ -33,10 +33,16 @@ Heureusement plusieurs types de "layout" (type de mise en page) existent pour fa
 
 Après avoir créé un petit logo pour l'appli, j'ai réalisé un premier visuel de l'interface de l'appli. Voici une capture d'écran de l'interface "URSSAF" :
 
+<img src="https://github.com/marlenech/marlenech.github.io/blob/master/img/Screenshot_1476866687.png"/>
+
+Le code source de l'interface est disponible <a href="https://github.com/marlenech/BddPaye/blob/master/app/src/main/res/layout/fragment_urssaf.xml">ici</a>.
+
+Et voici le menu principal de l'appli :
+
+<img src="https://github.com/marlenech/marlenech.github.io/blob/master/img/Screenshot_1476866716.png"/>
+
+Voilà, maintenant que j'ai construit au moins une interface, il va me falloir réfléchir à ce que je vais utiliser comme méthode d'échange des données (fournisseur de contenu, web, base de données sql, etc) et la tester sur cette première interface avant de continuer la réalisation de l'ensemble des interfaces.
+
+Mais avant tout, nous sommes mercredi, la journée des enfants, et c'est le réveil de la sieste de mon petit ogre de 2 ans alors vite, je vous laisse jusqu'au prochain épisode !
 
 
-### 4h16 plus tard...
-
-Il est temps pour moi de vous abandonner à ces premières fondations, en attendant le prochain épisode !
-
-<img src="http://www.reactiongifs.com/wp-content/uploads/2013/07/exhausted.gif"/>
