@@ -43,6 +43,10 @@ Et voici le menu principal de l'appli :
 
 Voilà, maintenant que j'ai construit au moins une interface, il va me falloir réfléchir à ce que je vais utiliser comme méthode d'échange des données (fournisseur de contenu, web, base de données sql, etc) et la tester sur cette première interface avant de continuer la réalisation de l'ensemble des interfaces.
 
-Mais avant tout, nous sommes mercredi, la journée des enfants, et c'est le réveil de la sieste de mon petit ogre de 2 ans alors vite, je vous laisse jusqu'au prochain épisode !
+Mais avant tout, nous sommes mercredi, la journée des enfants, et c'est le réveil de mon petit ogre de 2 ans alors si je n'y vais pas tout de suite, je vais finir comme ça :
+
+<img src="http://maguy69.centerblog.net/voir-photo?u=http://maguy69.m.a.pic.centerblog.net/e6f84f86.gif"/>
+
+A bientôt !
 
 
