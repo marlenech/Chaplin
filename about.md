@@ -7,7 +7,7 @@ permalink: /about/
 
 Après des études orientées RH, j'ai travaillé quelques années dans la gestion du personnel en entreprise.
 Puis, j'ai suivi une formation complémentaire pour me spécialiser dans un domaine précis des RH, <span class="highlight-span">la gestion de paie</span>.
-Aujourd'hui, je travaille dans le service social d'un cabinet comptable, je m'occupe des salaires d'un portefeuille d'une quarantaine de TPE et PME.
+Aujourd'hui, je travaille dans le service social d'un cabinet d'expertise comptable, je m'occupe des salaires d'un portefeuille d'une quarantaine de TPE et PME.
 
 En parallèle, j'ai commencé par développer des petits sites web pour des projets personnels, puis je me suis intéressée tout particulièrement au développement sur mobile, <span class="highlight-span">Android et IOS</span>.
 
@@ -21,5 +21,7 @@ Mes réalisations :
 > <a href="http://trouvetonjob.fr/">TrouveTonJob.fr (service de réalisations de CV et Lettres de motivation)</a>,
 
 > <a href="http://cvbranding.com/">CvBranding.com (Personal branding via les réseaux sociaux professionnels)</a>.
+
+Pour me contacter : <a href="mailto:italikdesignbordeaux@gmail.com"> italikdesignbordeaux@gmail.com</a>
 
 
