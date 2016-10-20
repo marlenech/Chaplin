@@ -28,7 +28,7 @@ short_bio: >
 profile_picture: https://avatars3.githubusercontent.com/u/14965403?v=3&s=466
 
 google_analytics: true
-tracking_id: 
+tracking_id: UA-43878689-1
 
 # Build settings | Do not edit anything below this
 markdown: kramdown
