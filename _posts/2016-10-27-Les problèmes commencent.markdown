@@ -14,7 +14,7 @@ Mes besoins, c’est :
 
 Les méthodes de sauvegarde et de partage des données existantes disponibles sous Android (enfin… que je connais) sont :
 
--	SharedPreferences : sauvegarde les données pour une réutilisation au sein de l'applications, utilisé notamment pour la gestion des préférences de l’utilisateur. Exemple : activer ou désactiver la réception de notifications – Inconvénient : ne peut pas être partagé par d’autres applications ;
+-	SharedPreferences : sauvegarde les données pour une réutilisation au sein de l'applications, utilisé notamment pour la gestion des préférences de l’utilisateur. Exemple : activer ou désactiver la réception de notifications – Inconvénient : ne peut pas être partagé avec d’autres applications ;
 -	Stockage interne : le stockage des données se fait via un fichier interne à l’application, qui ne peut être utilisé que par celle-ci. Toute modification du fichier nécessite une mise à jour de l’application ;
 -	Stockage externe : le stockage des données se fait via un fichier généré par l’application, qui peut être utilisé par d’autres applications. Toute modification du fichier nécessite une mise à jour de l’application que le crée ;
 -	Stockage en base de données : tout mobile Android embarque une base de données SQLite, mais cette base est privée, et ne peut être accessible directement que par l’application l’ayant créée ;
