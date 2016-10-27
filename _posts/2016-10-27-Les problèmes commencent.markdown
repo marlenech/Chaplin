@@ -28,6 +28,7 @@ Parfait ! Je vais donc stocker mes données en ligne. Et le moyen bien connu pou
 En revanche, je n’ai jamais connecté une telle base à une appli Android. Alors, autant vous dire que cette semaine, j’ai lu du code, et encore du code, via des tutos et articles, pour comprendre comment fonctionnait Android face à ces bases.
 
 Et là… ce n’est pas aussi simple que je le pensais. Android ne peut lire et utiliser directement les données d’une base de données stockée en ligne. Il est alors nécessaire de passer par plusieurs étapes avant qu’une application puisse afficher et lire ces données :
+
 -	Créer un <span class="highlight-span">fichier PHP</span> (langage de programmation) capable de se connecter, lire, et modifier les données d’une base,
 -	Etablir une connexion via l’application Android à ce script PHP,
 -	Convertir (=parser) les données via l’application, en <span class="highlight-span">fichier JSON</span> (format d’échange de données via un fichier léger),
