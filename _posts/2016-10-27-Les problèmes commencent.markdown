@@ -14,16 +14,16 @@ Mes besoins, c’est :
 
 Les méthodes de sauvegarde et de partage des données existantes disponibles sous Android (enfin… que je connais) sont :
 
--	SharedPreferences : sauvegarde les données au sein de l’application pour une réutilisation au sein de celle-ci, utilisé notamment pour la gestion des préférences de l’utilisateur. Exemple : activer ou désactiver la réception de notifications – Inconvénient : ne peut pas être partagé par d’autres applications ;
+-	SharedPreferences : sauvegarde les données pour une réutilisation au sein de l'applications, utilisé notamment pour la gestion des préférences de l’utilisateur. Exemple : activer ou désactiver la réception de notifications – Inconvénient : ne peut pas être partagé par d’autres applications ;
 -	Stockage interne : le stockage des données se fait via un fichier interne à l’application, qui ne peut être utilisé que par celle-ci. Toute modification du fichier nécessite une mise à jour de l’application ;
 -	Stockage externe : le stockage des données se fait via un fichier généré par l’application, qui peut être utilisé par d’autres applications. Toute modification du fichier nécessite une mise à jour de l’application que le crée ;
 -	Stockage en base de données : tout mobile Android embarque une base de données SQLite, mais cette base est privée, et ne peut être accessible directement que par l’application l’ayant créée ;
 -	ContentProvider : c’est un fournisseur de contenu qui permet de partager les données d’une application (stockées en base SQLite, fichier, sharedpreferences), mais là aussi, chaque modification de données nécessite une mise à jour de l’application qui crée le stockage ;
--	<span class="highlight-span">Le stockage en ligne : les données sont accessibles sur la web, via une connexion Internet. La mise à jour des données peut donc se faire de façon simple et rapide, en ligne, sans mise à jour de l’appli, tout en étant réutilisables par d’autres applicatifs…</span>
+-	<span class="highlight-span">Le stockage en ligne : les données sont accessibles sur le web, via une connexion Internet. La mise à jour des données peut donc se faire de façon simple et rapide, en ligne, sans mise à jour de l’appli, tout en étant réutilisables par d’autres applicatifs…</span>
 
 <img src="http://www.reactiongifs.com/r/hsk.gif"/>
 
-Parfait ! Je vais donc stocker mes données en ligne. Et le moyen bien connu pour stocker ses données en ligne de manière fiable et ordonnée, c’est de passer par une <span class="highlight-span">base MySQL</span> (système de gestion de base de données couramment utilisé). Et cela tombe bien puisque je possède déjà une base MySQL en ligne, pour gérer notamment les données clients d’un de mes sites web.
+Parfait ! Je vais donc stocker mes données en ligne. Et le moyen bien connu pour stocker ses données en ligne de manière fiable et ordonnée, c’est de passer par une <span class="highlight-span">base MySQL</span> (système de gestion de base de données relationnelles couramment utilisé). Et cela tombe bien puisque je possède déjà une base MySQL en ligne, pour gérer notamment les données clients d’un de mes sites web.
 
 En revanche, je n’ai jamais connecté une telle base à une appli Android. Alors, autant vous dire que cette semaine, j’ai lu du code, et encore du code, via des tutos et articles, pour comprendre comment fonctionnait Android face à ces bases.
 
