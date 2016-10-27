@@ -16,9 +16,9 @@ Les méthodes de sauvegarde et de partage des données existantes disponibles so
 
 -	SharedPreferences : sauvegarde les données au sein de l’application pour une réutilisation au sein de celle-ci, utilisé notamment pour la gestion des préférences de l’utilisateur. Exemple : activer ou désactiver la réception de notifications – Inconvénient : ne peut pas être partagé par d’autres applications ;
 -	Stockage interne : le stockage des données se fait via un fichier interne à l’application, qui ne peut être utilisé que par celle-ci. Toute modification du fichier nécessite une mise à jour de l’application ;
--	Stockage externe : le stockage des données se fait via un fichier généré par l’application, qui peut être utilisé par d’autres applications. Toute modification du fichier nécessite une mise à jour de l’application que le créé ;
+-	Stockage externe : le stockage des données se fait via un fichier généré par l’application, qui peut être utilisé par d’autres applications. Toute modification du fichier nécessite une mise à jour de l’application que le crée ;
 -	Stockage en base de données : tout mobile Android embarque une base de données SQLite, mais cette base est privée, et ne peut être accessible directement que par l’application l’ayant créée ;
--	ContentProvider : c’est un fournisseur de contenu qui permet de partager les données d’une application (stockées en base SQLite, fichier, sharedpreferences), mais là aussi, chaque modification de données nécessite une mise à jour de l’application qui créée le stockage ;
+-	ContentProvider : c’est un fournisseur de contenu qui permet de partager les données d’une application (stockées en base SQLite, fichier, sharedpreferences), mais là aussi, chaque modification de données nécessite une mise à jour de l’application qui crée le stockage ;
 -	<span class="highlight-span">Le stockage en ligne : les données sont accessibles sur la web, via une connexion Internet. La mise à jour des données peut donc se faire de façon simple et rapide, en ligne, sans mise à jour de l’appli, tout en étant réutilisables par d’autres applicatifs…</span>
 
 <img src="http://www.reactiongifs.com/r/hsk.gif"/>
