@@ -2,7 +2,7 @@
 
 Entre les tours gigantesques de legos, la voiture méga super cool télécommandée, les ballades en trottinette  qui va « vite vite vite maman », le week-end de pont n’a pas été réellement en faveur de l’avancé du projet. 
 
-<img src="http://giphy.com/gifs/angry-computer-frustrated-ReImZejkBnqYU"/>
+<img src="http://giphy.com/gifs/ReImZejkBnqYU/html5"/>
 
 Toutefois, ne pas coder m’a permis de réfléchir à des aspects plus généraux du projet. Et c’est pas plus mal, parce que j’avais omis quelques <span class="highlight-span">petites particularités</span> lorsque j’ai commencé à coder l’appli de gestion de la base de données.
 
