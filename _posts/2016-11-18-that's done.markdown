@@ -12,7 +12,7 @@ Un simple click sur mes « TextView » (= les taux de cotisations) me permet d�
 
 L’application compare également la date du jour avec la date de validité de chaque donnée afin d’afficher <span class="highlight-span">la valeur en vigueur au moment de l’affichage</span>.
 
-<img src = "https://marlenech.github.io/img/nov.-18-2016%2020-49-31.gif"/>
+<img src = "https://marlenech.github.io/img/nov.-18-2016%2021-49-31.gif"/>
 
 Ici, je modifie mon nouveau taux (qui est celui qui s’affiche par défaut) avec une date de validité au 01/12/2016. La date du jour étant le 18/11/2016, l’application va alors afficher l’<span class="highlight-span">ancien taux</span> enregistré.
 
@@ -22,6 +22,6 @@ Il me reste tout de même maintenant à enregistrer l’ensemble de mes données
 
 Après cela, nous pourrons alors entrer dans le vif du sujet : <span class="highlight-span">l’application publique et le calcul d’une paie</span> !
 
-En attendant, je vous rappelle que l’ensemble du code source est disponible sur<a href=" https://github.com/marlenech/BddPaye">GITHUB</a>.
+En attendant, je vous rappelle que l’ensemble du code source est disponible sur <a href=" https://github.com/marlenech/BddPaye">Github</a>.
 
 A très vite !
