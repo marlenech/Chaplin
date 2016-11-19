@@ -20,7 +20,7 @@ Ici, je modifie mon nouveau taux (qui est celui qui s’affiche par défaut) ave
 
 <img src=" http://www.reactiongifs.com/wp-content/uploads/2013/06/fart-in-elevator.gif"/>
 
-Il me reste tout de même maintenant à enregistrer l’ensemble de mes données pour les afficher dans l’application, car seul la view « Urssaf » est disponible pour le moment. 
+Il me reste tout de même maintenant à enregistrer l’ensemble de mes données pour les afficher dans l’application, car seule la view « Urssaf » est disponible pour le moment. 
 
 Après cela, nous pourrons alors entrer dans le vif du sujet : <span class="highlight-span">l’application publique et le calcul d’une paie</span> !
 
