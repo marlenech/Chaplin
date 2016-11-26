@@ -1,6 +1,6 @@
 ### 50 jours et 10h34 plus tard...
 
-Cette semaine au boulot, j’ai suivi une petite formation sur le <a href= "http://www.preventionpenibilite.fr/sites/preventionpenibilite/home.html">compte pénibilité</a>. La pénibilité, pour résumer rapidement, c’est l’attribution pour les salariés dépassant certains <span class="highlight-span">seuils d’expositions</span> au travail, définis strictement par la loi, de points supplémentaires pour leur retraite, utilisables également pour de la formation.
+Cette semaine au boulot, j’ai suivi une petite formation sur le <a href="http://www.preventionpenibilite.fr/sites/preventionpenibilite/home.html">compte pénibilité</a>. La pénibilité, pour résumer rapidement, c’est l’attribution pour les salariés dépassant certains <span class="highlight-span">seuils d’expositions</span> au travail, définis strictement par la loi, de points supplémentaires pour leur retraite, utilisables également pour de la formation.
 
 Je vous épargne le détail de l’ensemble des déclarations obligatoires liées à ce compte, qui incombent encore une fois à l’employeur. Mais la pénibilité, c’est également un nouveau taux de cotisation qui entre en vigueur au 1er janvier 2017, de <span class="highlight-span">0,01%</span> de la masse salariale pour l’ensemble des employeurs. S’ajoute à ce taux des taux additionnels sur les rémunérations des salariés dépassant les seuils de pénibilité avec un effet rétroactif au 1er janvier 2015.
 
