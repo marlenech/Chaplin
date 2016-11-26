@@ -8,11 +8,11 @@ layout: default
 	</div>
 	{{ content }}
 	
-	{% if page.previous %} {{ page.previous.title }} {% endif %} {% if page.next %}
-{{ page.next.title }} 
+	
 </div>
 
-
+{% if page.previous %} {{ page.previous.title }} {% endif %} {% if page.next %}
+{{ page.next.title }} 
 
 {% include share.html %}
 
