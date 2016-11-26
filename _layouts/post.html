@@ -14,26 +14,23 @@ layout: default
 	    <a href="{{ site.baseurl }}/{{ page.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	  </class>
 	  <class="first-next">
-	    <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Next&emsp;&emsp;<span class="icon-arrow-right"></span></a>
+	    <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Article Suivant&emsp;&emsp;<span class="icon-arrow-right"></span></a>
 	    <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-large"><span class="icon-arrow-right"></span></a>
 	  </class>
 	{% elsif site.posts.last.url != page.url %}
 	  {% if page.previous.url %}      
-	    <class="previous-comic">
-	      <a href="{{ site.baseurl }}{{ page.previous.url }}" class="icon-arrow-left hide-for-small">Précédent&emsp;&emsp;</a>
+	    <class="previous-article">
+	      <a href="{{ site.baseurl }}{{ page.previous.url }}" class="icon-arrow-left hide-for-small">Article Précédent&emsp;&emsp;</a>
 	      <a href="{{ site.baseurl }}{{ page.previous.url }}" class="icon-arrow-left hide-for-large"></a>
 	    </class>
-	  {% endif %}	
-	  <class="first-comic">
-	    <a href="{{ site.baseurl }}{{ site.posts.last.url }}">Premier Article&emsp;&emsp;</a>
-	  </class>   
+	  {% endif %}	 
 	  {% if page.next.url %}
-	    <class class="comic-next">
-	      <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Suivant&emsp;&emsp;<span class="icon-arrow-right"></span></a>
+	    <class class="article-next">
+	      <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Article Suivant&emsp;&emsp;<span class="icon-arrow-right"></span></a>
 	      <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-large"><span class="icon-arrow-right"></span></a>
 	    </class>
 	    {% else %}
-	    <class class="comic-next">
+	    <class class="article-next">
 	      <a href="{{ site.baseurl }}{{ page.categories }}/" class="hide-for-small">Archive&emsp;&emsp;<span class="icon-arrow-down"></span></a>
 	      <a href="{{ site.baseurl }}{{ page.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	    </class>
