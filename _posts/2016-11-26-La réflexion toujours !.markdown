@@ -10,7 +10,7 @@ Passé le moment de longue déprime entre collègues face à une nouvelle missio
 
 A ce jour, ma base de données comporte l’ensemble des taux actuellement en vigueur. Mais qu’en est-il des <span class="highlight-span">nouveaux taux</span> ? Ces cotisations qui n’existent pas à ce jour et qui fleurissent rarement au printemps mais plutôt en début d’année ? Je n’ai pas prévu ce cas de figure dans mon appli…
 
-J’ai alors réfléchi un moment à une solution : ajouter un bouton sur chaque interface pour ajouter une cotisation, qui viendra alors s’ajouter dans ma base de données, mais aussi sur mon interface… Oui mais ce taux ne sera pas ajouté dans mon appli de conversion… ou alors il faut prendre en compte la possibilité de l’ajout d’un nouveau taux dans l’algorithme de conversion… oui mais comment faire s’il s’agit d’un allègement (oui oui, c’est possible parfois) plutôt que d’un taux de cotisation complémentaire ?
+J’ai alors réfléchi un moment à une solution : insérer un bouton sur chaque interface pour ajouter une cotisation, qui viendra alors s’ajouter dans ma base de données, mais aussi sur mon interface… Oui mais ce taux ne sera pas ajouté dans mon appli de conversion… ou alors il faut prendre en compte la possibilité de l’ajout d’un nouveau taux dans l’algorithme de conversion… oui mais comment faire s’il s’agit d’un allègement (oui oui, c’est possible parfois) plutôt que d’un taux de cotisation complémentaire ?
 
 <img src = "http://www.laboiteverte.fr/wp-content/uploads/2011/09/12-Casino.gif"/>
 
