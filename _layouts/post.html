@@ -9,34 +9,34 @@ layout: default
 	{{ content }}
 <div>
 	{% if site.posts.last.url == page.url %}
-	  <nav class="first-archive">
+	  <p class="first-archive">
 	    <a href="{{ site.baseurl }}/{{ page.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
 	    <a href="{{ site.baseurl }}/{{ page.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
-	  </nav>
-	  <nav class="first-next">
+	  </p>
+	  <p class="first-next">
 	    <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Next<span class="icon-arrow-right"></span></a>
 	    <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-large"><span class="icon-arrow-right"></span></a>
-	  </nav>
+	  </p>
 	{% elsif site.posts.last.url != page.url %}
 	  {% if page.previous.url %}      
-	    <nav class="previous-comic">
+	    <p class="previous-comic">
 	      <a href="{{ site.baseurl }}{{ page.previous.url }}" class="icon-arrow-left hide-for-small">Previous</a>
 	      <a href="{{ site.baseurl }}{{ page.previous.url }}" class="icon-arrow-left hide-for-large"></a>
-	    </nav>
+	    </p>
 	  {% endif %}	
-	  <nav class="first-comic">
+	  <p class="first-comic">
 	    <a href="{{ site.baseurl }}{{ site.posts.last.url }}">First</a>
-	  </nav>   
+	  </p>   
 	  {% if page.next.url %}
-	    <nav class="comic-next">
+	    <p class="comic-next">
 	      <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-small">Next<span class="icon-arrow-right"></span></a>
 	      <a href="{{ site.baseurl }}{{page.next.url}}" class="hide-for-large"><span class="icon-arrow-right"></span></a>
-	    </nav>
+	    </p>
 	    {% else %}
-	    <nav class="comic-next">
+	    <p class="comic-next">
 	      <a href="{{ site.baseurl }}{{ page.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
 	      <a href="{{ site.baseurl }}{{ page.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
-	    </nav>
+	    </p>
 	  {% endif %}	
 	{% endif %}	
 	</div>
