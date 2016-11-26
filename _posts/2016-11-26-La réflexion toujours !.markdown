@@ -12,7 +12,7 @@ A ce jour, ma base de données comporte l’ensemble des taux actuellement en vi
 
 J’ai alors réfléchi un moment à une solution : ajouter un bouton sur chaque interface pour ajouter une cotisation, qui viendra alors s’ajouter dans ma base de données, mais aussi sur mon interface… Oui mais ce taux ne sera pas ajouté dans mon appli de conversion… ou alors il faut prendre en compte la possibilité de l’ajout d’un nouveau taux dans l’algorithme de conversion… oui mais comment faire s’il s’agit d’un allègement (oui oui, c’est possible parfois) plutôt que d’un taux de cotisation complémentaire ?
 
-<img src = "http://www.laboiteverte.fr/wp-content/uploads/2011/09/12-Casino.gif/>
+<img src = "http://www.laboiteverte.fr/wp-content/uploads/2011/09/12-Casino.gif"/>
 
 Finalement… je ne vais pas prendre en compte cette hypothèse. Comme je le disais plus haut, les nouvelles cotisations sont généralement mises en vigueur en début d’année. Et puis, ce n’est pas si régulier. Cette année par exemple, il n’y a, à ma connaissance, qu’une seule cotisation dont le calcul a sensiblement été modifié en cours d’année : la <span class="highlight-span">cotisation allocation familiale complémentaire</span>. Aussi, il me suffira de mettre à jour mon application de gestion de la base de données et mon algorithme de calcul dans l’application de conversion pour prendre en compte ce genre de cas de figure. 
 
