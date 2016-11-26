@@ -11,10 +11,7 @@ layout: default
 	
 </div>
 
-{% if page.previous %} {{ page.previous.title }} {% endif %} {% if page.next %}
-{{ page.next.title }} 
-{% endif %} 
-
+{% include pagination_post.html %}
 
 {% include share.html %}
 
