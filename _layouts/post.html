@@ -13,5 +13,8 @@ layout: default
 {% include about_footer.html %}
 
 {% if jekyll.environment == "production" %}
+
+{% if page.previous %} {{ page.previous.title }} {% endif %} {% if page.next %}
+{{ page.next.title }} 
 	
 {% endif %}
