@@ -50,6 +50,7 @@ Je me suis mise longtemps l’idée en tête de faire de la conception web mon m
 Alors, je n’aurai qu’un conseil dans cette rubrique à vous donner : si vous êtes passionné, ne cherchez pas à absolument faire du web votre métier, surtout si votre boulot actuel vous plaît plutôt pas mal et que vous n’êtes pas du tout issu des cursus convoités du domaine.
 
 Et puis, pensez à ce moment où, entouré de vos chers collègues pour lesquels le code est une notion lointaine, voir…trèèèèès lointaine, vous présenterez votre dernier site web tout juste finalisé…
+
 <img src ="http://www.demeterclarc.com/wp-content/uploads/images/2015/01/SCORPIO.gif" />
 
 Les mêmes collègues (à peu près)… lors de l’élimination d’une anomalie bloquante dans une attestation Pôle Emploi :
