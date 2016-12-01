@@ -74,12 +74,13 @@ Vous pouvez également démontrer vos compétences via un blog sur lequel vous p
 
 Bref, soyez présent ! Sur le web, les réseaux sociaux, les sites spécialisés, pour enfin… un jour… coder au boulot !
 
-Moi je bosse dans un milieu où les logiciels sont d’une grande importance, puisqu’ils occupent une grande part de notre métier : le paramétrage des rubriques de salaire et tout ce qui s’y rattachent (charges sociales, déclarations, etc.). Et plus le métier évolue, plus nos exigences face à ces logiciels deviennent fortes. Nous regrettons souvent le manque de fonctionnalités, d’automatismes sur certaines tâches. L’Open Source dans le domaine nous apporterait alors plus de liberté face à ces problématiques. Mais pour profiter de l’Open Source, il faut savoir coder… j’espère qu’un jour le métier évoluera dans cette direction. En attendant, j’aimerai à l’avenir me rapprocher davantage du développement des logiciels et outils qui font notre métier.
+Moi je bosse dans un milieu où les logiciels sont d’une grande importance, puisqu’ils occupent une grande part de notre métier : le paramétrage des rubriques de salaire et tout ce qui s’y rattache (charges sociales, déclarations, etc.). Et plus le métier évolue, plus nos exigences face à ces logiciels deviennent fortes. Nous regrettons souvent le manque de fonctionnalités, d’automatismes sur certaines tâches. L’Open Source dans le domaine nous apporterait alors plus de liberté face à ces problématiques. Mais pour profiter de l’Open Source, il faut savoir coder… j’espère qu’un jour le métier évoluera dans cette direction. En attendant, j’aimerai à l’avenir me rapprocher davantage du développement des logiciels et outils qui font notre métier.
 
 
 >	Se fixer des limites
 
 Quand on n’est pas du métier et qu’on ne connaît pas des vrais gens du web, et bien… on réalise ses projets seul. Il faut alors savoir être raisonnable. Non ! Pas de <a href= "http://rfpaye.grouperf.com/" >RfPaye.com</a> ou de <a href= "http://www.net-entreprises.fr/" >Net-Entreprise.fr</a> en solo ! (oui je sais, j’ai des références qui font rêver…). Un projet, c’est avant tout évaluer le délai de réalisation de celui-ci. Passer plusieurs années sur un même projet avant qu’il soit abouti, avec une équipe constituée de vous et… c’est tout, tout en  prenant en compte l’évolution du web, des attentes utilisateurs, de mon point de vue, je dirais que c’est impossible. Il est préférable de débuter par des projets demandant des délais de réalisation courts. Il n’y a rien de plus motivant qu’un projet qui se concrétise et ressemble à ce que vous aviez imaginé pour se lancer avec toujours plus d’enthousiasmes vers d’autres projets. Plus le projet s’étalera dans le temps, plus votre enthousiasme diminuera.
+
 <img src =
 "http://lpmn-cergy.rhcloud.com/content/images/2015/09/harry-potter.gif" />
 
