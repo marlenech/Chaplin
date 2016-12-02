@@ -102,7 +102,7 @@ Mais à chaque projet, j’ai au moins un nouvel obstacle qui se présente. Parf
 
 <img src ="http://sf.be.com/wp-content/uploads/2015/02/giphy-10.gif" />
 
-Voilà. Tout cela pour vous dire que mon "web passionnel" ne s'arrêtera pas demain et j'espère qu'il en sera de même pour vous qui souhaitez vous investir, créer, inventer le web et vous qui faites le web aujourd'hui. Et puis, qui sait... peut être qu'un jour, lors de nos diverses sessions "coding" nocturnes, un vieil homme, la barbe blanche, vêtu d'un pyjama rouge et blanc, portant un lourd baluchon duquel dépassent quelques boites emballées et rubans dorés (ça va, vous avez assez d'indices là ?) nous aidera à passer un nouvel obstacle.
+Voilà. Tout cela pour vous dire que mon "web passionnel" ne s'arrêtera pas demain et j'espère qu'il en sera de même pour vous qui souhaitez vous investir, créer, inventer le web et vous qui faites le web aujourd'hui. Et puis, qui sait... peut être qu'un jour, lors de nos diverses sessions "coding" nocturnes, un vieil homme, la barbe blanche, vêtu d'un pyjama rouge et blanc, portant un lourd baluchon duquel dépasseront quelques boites emballées et rubans dorés (ça va, vous avez assez d'indices là ?) nous aidera à passer un nouvel obstacle.
 
 <img src ="http://petitemimine.p.e.pic.centerblog.net/6b1c4183.gif" />
 
