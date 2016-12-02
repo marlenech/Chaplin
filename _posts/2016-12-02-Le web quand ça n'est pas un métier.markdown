@@ -16,7 +16,7 @@ J’annule mon inscription ? Je n’annule pas ? Et puis non, je ne me démonte 
 <img src ="http://www.reactiongifs.com/wp-content/uploads/2013/09/good-day.gif" />
 
 Finalement, c’est par le web que tout a commencé. Avec une idée précise en tête, je me suis lancée un beau jour, à mes heures perdues, dans la conception d’un site e-commerce sous Dreamweaver, en passant par des scripts PHP et une base mySQL. J’y ai passé de longues heures, de courtes nuits pour ne plus m’arrêter ! J’ai alors construit d’autres projets web, étudié plus en profondeur le HTML, acheté quelques bouquins sur le CSS, suivi des tutos de JavaScript pour abandonner Dreamweaver et enfin comprendre réellement ce que je codais. Alors je vais profiter de cet article pour vous faire partager l’expérience d’une passionnée du web dont ce n’est pas, mais alors pas du tout le métier.
-<br />
+<p></p>
 
 > La nécessité de s’organiser pour apprendre
 
