@@ -18,6 +18,7 @@ J’annule mon inscription ? Je n’annule pas ? Et puis non, je ne me démonte 
 Finalement, c’est par le web que tout a commencé. Avec une idée précise en tête, je me suis lancée un beau jour, à mes heures perdues, dans la conception d’un site e-commerce sous Dreamweaver, en passant par des scripts PHP et une base mySQL. J’y ai passé de longues heures, de courtes nuits pour ne plus m’arrêter ! J’ai alors construit d’autres projets web, étudié plus en profondeur le HTML, acheté quelques bouquins sur le CSS, suivi des tutos de JavaScript pour abandonner Dreamweaver et enfin comprendre réellement ce que je codais. Alors je vais profiter de cet article pour vous faire partager l’expérience d’une passionnée du web dont ce n’est pas, mais alors pas du tout le métier.
 <p></p>
 
+##
 > La nécessité de s’organiser pour apprendre
 
 Comme la plupart des loisirs, il est nécessaire d’y consacrer un temps d’apprentissage pour obtenir des résultats. C’est d’autant plus vrai pour le web, qui évolue à une vitesse vertigineuse, avec des outils toujours plus performants et des exigences davantage tournées vers le visuel et la rapidité pour les utilisateurs. Dans le web, la curiosité est de mise. D’abord parce que les langages évoluent, les outils également, mais parce que la conception web est rattachée à bien d’autres domaines : le graphisme, le marketing, le référencement, la gestion de projet, etc. 
@@ -31,6 +32,7 @@ C’est là qu’il faut réfléchir à des astuces pour trouver du temps, en de
 -	Se coucher plus tard que toute sa maisonnée, soit se coucher très tard, surtout quand le terme ‘’maisonnée’’ inclus le chat, et ainsi s’entrainer à coder dans le calme (Avertissement : cette astuce ne doit en aucun cas être reproduite chez soi la veille d’un rendez-vous client fixé à la première heure, entretien annuel, formation mega super importante, etc… bref, soyez raisonnable !).
 <br />
 
+##
 > Savoir s’entourer !
 
 Quand on connaît des vrais gens dans le web, c ‘est super ! Moi, les vrais gens que je connais, ils ne travaillent pas dans le web, et aucun n’en a fait une passion. C’est là que les réseaux sociaux interviennent, ouf ! Je pense tout particulièrement à <a href=" https://twitter.com/ItalikDesign" >Twitter</a>. Ce qu’il y a de génial sur Twitter, c’est que des vrais gens passionnés (mais que l'on connaît pour de faux) partagent des liens, des infos, des tendances, etc, sur les sujets qui vous intéressent. Il suffit pour cela de simplement les ‘’follow’’ (= suivre).  C’est juste parfait, lorsqu’on a assez peu de temps pour farfouiller sur Internet, pour dénicher des pépites d’articles sur la conception web (ça marche bien sûr pour bien d’autres sujets). 
@@ -44,7 +46,7 @@ Enfin, de retour de ‘’l’apéro’’, si vous êtes encore frais, il peut 
 Le forum le plus actif de tous les temps sur le sujet, c’est le fameux <a href= "http://stackoverflow.com/" >Stack Overflow</a>, qui a comme petit inconvénient d’être exclusivement en Anglais. Mais comme, dans votre quête d’apprendre, vous aurez petit à petit lu beaucoup de pépites d’articles en anglais via Twitter, vous deviendrez bien plus vite que vous le pensez « bilingue web » (= bilingue uniquement sur les sujets liés à la conception web, et tout ce qui s’y rattachent ; votre capacité ne s’étendra pas à la rédaction en anglais d’un mail explicatif de la formule de calcul des congés payés à destination d’un client par exemple). En attendant d’acquérir ce super pouvoir, heureusement qu’il existe des initiatives comme celle qui fait naître cet article, les 24 jours du web de <a href= "http://www.hteumeuleu.fr/" >HTeuMeuLeu </a>, pour offrir de plus en plus d’articles pointilleux et techniques sur la programmation web en <span class="highlight-span">français</span> (la partie pointilleuse de l’article que vous êtes en train de lire a été rattachée à un attribut CSS display: none; désolé !).
 <br/>
 
-
+##
 > Apprendre et coder pour le plaisir
 
 L’intérêt du loisir, le vrai loisir, c’est d’y prendre du plaisir. Le fait de ne pas bosser dans le web laisse une grande part de liberté en terme d’apprentissage, de conception et de lancement de projet. Il vous appartient de choisir vos outils, vos langages et votre approche pour arriver à vos fins.
@@ -61,7 +63,8 @@ Les mêmes collègues (à peu près)… lors de l’élimination d’une anomali
 
 <img src ="http://i778.photobucket.com/albums/yy65/kaelasgifsandcrap/gifs/2m41yte.gif" />
 
-###
+
+##
 > Mais penser à sa carrière professionnelle
 
 Quand le code vous embarque des nuits entières devant votre clavier, il est tout de même difficile de ne pas rêver de pouvoir coder au boulot un jour. Lorsque nous ne sommes pas issu d’une formation de développeur, il faut alors pouvoir démontrer ses compétences. Mais les compétences en développement web s’acquièrent au fil des années, à force d’entraînement, de réalisations de projets, etc.
@@ -80,7 +83,7 @@ Bref, soyez présent ! Sur le web, les réseaux sociaux, les sites spécialisés
 
 Moi je bosse dans un milieu où les logiciels sont d’une grande importance, puisqu’ils occupent une grande part de notre métier : le paramétrage des rubriques de salaire et tout ce qui s’y rattache (charges sociales, déclarations, etc.). Et plus le métier évolue, plus nos exigences face à ces logiciels deviennent fortes. Nous regrettons souvent le manque de fonctionnalités, d’automatismes sur certaines tâches. L’Open Source dans le domaine nous apporterait alors plus de liberté face à ces problématiques. Mais pour profiter de l’Open Source, il faut savoir coder… j’espère qu’un jour le métier évoluera dans cette direction. En attendant, j’aimerai à l’avenir me rapprocher davantage du développement des logiciels et outils qui font notre métier.
 
-
+##
 > Se fixer des limites
 
 Quand on n’est pas du métier et qu’on ne connaît pas des vrais gens du web, et bien… on réalise ses projets seul. Il faut alors savoir être raisonnable. Non ! Pas de <a href= "http://rfpaye.grouperf.com/" >RfPaye.com</a> ou de <a href= "http://www.net-entreprises.fr/" >Net-Entreprise.fr</a> en solo ! (oui je sais, j’ai des références qui font rêver…). Un projet, c’est avant tout évaluer le délai de réalisation de celui-ci. Passer plusieurs années sur un même projet avant qu’il soit abouti, avec une équipe constituée de vous et… c’est tout, tout en  prenant en compte l’évolution du web, des attentes utilisateurs, de mon point de vue, je dirais que c’est impossible. Il est préférable de débuter par des projets demandant des délais de réalisation courts. Il n’y a rien de plus motivant qu’un projet qui se concrétise et ressemble à ce que vous aviez imaginé pour se lancer avec toujours plus d’enthousiasmes vers d’autres projets. Plus le projet s’étalera dans le temps, plus votre enthousiasme diminuera.
