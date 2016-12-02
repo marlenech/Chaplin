@@ -59,7 +59,7 @@ Et puis, pensez à ce moment où, entouré de vos chers collègues pour lesquels
 
 <img src ="http://www.demeterclarc.com/wp-content/uploads/images/2015/01/SCORPIO.gif" />
 
-Les mêmes collègues (à peu près)… lors de l’élimination d’une anomalie bloquante dans une attestation Pôle Emploi :
+Les mêmes collègues (à peu près)… lors de l’élimination d’une anomalie bloquante dans une attestation Pôle Emploi (= mon boulot) :
 
 <img src ="http://i778.photobucket.com/albums/yy65/kaelasgifsandcrap/gifs/2m41yte.gif" />
 
@@ -77,7 +77,7 @@ No panic ! il existe bien des solutions pour démontrer ses capacités. La premi
 
 Pour cela, il existe par exemple des contrôleurs de version, accessibles par le web, qui proposent alors des comptes gratuits pour les projets libres (= Open Source). Les plus connus sont sans doute <a href= "https://github.com/" >GitHub</a> et <a href= "https://bitbucket.org/product" >Bitbucket</a>. Vous permettez ainsi à tous ceux qui le souhaitent d’accéder à vos codes sources.
 
-Vous pouvez également démontrer vos compétences via un blog sur lequel vous présentez vos projets et réalisations (et comme ça, vous participez en passant aux 24 jours du web !).
+Vous pouvez également démontrer vos compétences via un blog sur lequel vous présentez vos projets et réalisations (et ainsi, vous participez aux 24 jours du web !).
 
 Bref, soyez présent ! Sur le web, les réseaux sociaux, les sites spécialisés, pour enfin… un jour… coder au boulot !
 
