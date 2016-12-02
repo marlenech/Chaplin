@@ -98,7 +98,7 @@ Mais à chaque projet, j’ai au moins un nouvel obstacle qui se présente. Parf
 
 <img src ="http://sf.be.com/wp-content/uploads/2015/02/giphy-10.gif" />
 
-Et voilà, après avoir affronté l’armée des dinosaures volants de son petit maître, tenté de s’emparer de mon clavier à maintes reprises, réchauffé les pages de mon dernier livre de 500 pages sur la programmation web, le chat s’endort enfin ! Je retourne vite à mon dernier projet en cours (pas de rendez-vous client demain).
+Et voilà, après avoir affronté l’armée des dinosaures volants de son petit maître, tenté de s’emparer de mon clavier à maintes reprises, réchauffé les pages de mon dernier livre de 500 pages sur la programmation web, le chat s’endort enfin! Je retourne vite à mon dernier projet en cours (pas de rendez-vous client demain).
 
 <img src ="http://petitemimine.p.e.pic.centerblog.net/6b1c4183.gif" />
 
