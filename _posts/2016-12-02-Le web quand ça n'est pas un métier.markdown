@@ -42,7 +42,7 @@ Mais comme il n’y a pas que le web dans la vie, il faut savoir aussi sortir de
 Enfin, de retour de ‘’l’apéro’’, si vous êtes encore frais, il peut être intéressant d’aller du côté des forums spécialisés, d’abord parce que certaines problématiques posées peuvent vous intéresser, et parce que cela peut être un bon moyen de s’entraîner en se fixant comme défi d’apporter une réponse (si possible correcte) à un membre étant connecté depuis 5 heures sur le forum en attendant désespérément au moins une piste de réponse (je ne fais aucunement allusion à une expérience personnelle). 
 
 Le forum le plus actif de tous les temps sur le sujet, c’est le fameux <a href= "http://stackoverflow.com/" >Stack Overflow</a>, qui a comme petit inconvénient d’être exclusivement en Anglais. Mais comme, dans votre quête d’apprendre, vous aurez petit à petit lu beaucoup de pépites d’articles en anglais via Twitter, vous deviendrez bien plus vite que vous le pensez « bilingue web » (= bilingue uniquement sur les sujets liés à la conception web, et tout ce qui s’y rattachent ; votre capacité ne s’étendra pas à la rédaction en anglais d’un mail explicatif de la formule de calcul des congés payés à destination d’un client par exemple). En attendant d’acquérir ce super pouvoir, heureusement qu’il existe des initiatives comme celle qui fait naître cet article, les 24 jours du web de <a href= "http://www.hteumeuleu.fr/" >HTeuMeuLeu </a>, pour offrir de plus en plus d’articles pointilleux et techniques sur la programmation web en <span class="highlight-span">français</span> (la partie pointilleuse de l’article que vous êtes en train de lire a été rattachée à un attribut CSS display: none; désolé !).
-<br />
+<br/>
 
 > Apprendre et coder pour le plaisir
 
