@@ -13,7 +13,7 @@ J’annule mon inscription ? Je n’annule pas ? Et puis non, je ne me démonte 
 <img src ="http://www.reactiongifs.com/wp-content/uploads/2013/09/good-day.gif" />
 
 Finalement, c’est par le web que tout a commencé. Avec une idée précise en tête, je me suis lancée un beau jour, à mes heures perdues, dans la conception d’un site e-commerce sous Dreamweaver, en passant par des scripts PHP et une base mySQL. J’y ai passé de longues heures, de courtes nuits pour ne plus m’arrêter ! J’ai alors construit d’autres projets web, étudié plus en profondeur le HTML, acheté quelques bouquins sur le CSS, suivi des tutos de JavaScript pour abandonner Dreamweaver et enfin comprendre réellement ce que je codais. Alors je vais profiter de cet article pour vous faire partager l’expérience d’une passionnée du web dont ce n’est pas, mais alors pas du tout le métier.
-
+<br />
 
 >	La nécessité de s’organiser pour apprendre
 
@@ -26,7 +26,7 @@ C’est là qu’il faut réfléchir à des astuces pour trouver du temps, en de
 -	Exercer son métier loin de chez soi et profiter du temps de trajet en bus / train pour étudier (bien sûr, cette astuce ne fonctionne pas pour un long trajet en voiture, hormis peut être si ce trajet comprend un passage par la rocade bordelaise). J’ai bossé quelques années avec un trajet de 3 heures de bus par jour, ça m’a beaucoup aidé !
 -	Utiliser le dernier livre acquis de 500 pages sur le sujet en renfort du mur de lego de son petit garçon, et pouvoir ainsi apprendre tout en se faisant envahir par une armée de dinosaures volants,
 -	Se coucher plus tard que toute sa maisonnée, soit se coucher très tard, surtout quand le terme ‘’maisonnée’’ inclus le chat, et ainsi s’entrainer à coder dans le calme (Avertissement : cette astuce ne doit en aucun cas être reproduite chez soi la veille d’un rendez-vous client fixé à la première heure, entretien annuel, formation mega super importante, etc… bref, soyez raisonnable !).
-
+<br />
 
 > Savoir s’entourer !
 
@@ -39,7 +39,7 @@ Mais comme il n’y a pas que le web dans la vie, il faut savoir aussi sortir de
 Enfin, de retour de ‘’l’apéro’’, si vous êtes encore frais, il peut être intéressant d’aller du côté des forums spécialisés, d’abord parce que certaines problématiques posées peuvent vous intéresser, et parce que cela peut être un bon moyen de s’entraîner en se fixant comme défi d’apporter une réponse (si possible correcte) à un membre étant connecté depuis 5 heures sur le forum en attendant désespérément au moins une piste de réponse (je ne fais aucunement allusion à une expérience personnelle). 
 
 Le forum le plus actif de tous les temps sur le sujet, c’est le fameux <a href= "http://stackoverflow.com/" >Stack Overflow</a>, qui a comme petit inconvénient d’être exclusivement en Anglais. Mais comme, dans votre quête d’apprendre, vous aurez petit à petit lu beaucoup de pépites d’articles en anglais via Twitter, vous deviendrez bien plus vite que vous le pensez « bilingue web » (= bilingue uniquement sur les sujets liés à la conception web, et tout ce qui s’y rattachent ; votre capacité ne s’étendra pas à la rédaction en anglais d’un mail explicatif de la formule de calcul des congés payés à destination d’un client par exemple). En attendant d’acquérir ce super pouvoir, heureusement qu’il existe des initiatives comme celle qui fait naître cet article, les 24 jours du web de <a href= "http://www.hteumeuleu.fr/" >HTeuMeuLeu </a>, pour offrir de plus en plus d’articles pointilleux et techniques sur la programmation web en <span class="highlight-span">français</span> (la partie pointilleuse de l’article que vous êtes en train de lire a été rattachée à un attribut CSS display: none; désolé !).
-
+<br />
 
 >	Apprendre et coder pour le plaisir
 
