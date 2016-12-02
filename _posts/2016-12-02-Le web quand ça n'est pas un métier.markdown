@@ -3,7 +3,7 @@
 
 ### 56 jours et 3h48 plus tard...
 
-<p>Cette semaine, je fais une petite pause dans mon projet. Oui, cette semaine a commencé les 24 jours du web, le calendrier de l’avant des gens qui font le web, organisé depuis plusieurs années par Rémi de <a href="http://www.hteumeuleu.fr/" >HTeuMeuLeu</a> : pas de chocolats dans ce calendrier, mais un article chaque jour sur la conception, le graphisme, la gestion de projet, etc, dans le domaine du web. Chaque année, ce sont généralement des pros assez influants, qui sont invités à rédiger des articles. Mais cette année, les 24 jours du web étant remplacés par #nowwwel, nous pouvons nous inviter !</p> 
+<p>Cette semaine, je fais une petite pause dans mon projet. Oui, cette semaine a commencé les 24 jours du web, le calendrier de l’avant des gens qui font le web, organisé depuis plusieurs années par Rémi de <a href="http://www.hteumeuleu.fr/" >HTeuMeuLeu</a> : pas de chocolats dans ce calendrier, mais un article chaque jour sur la conception, le graphisme, la gestion de projet, etc, dans le domaine du web. Chaque année, ce sont généralement des pros assez influents, qui sont invités à rédiger des articles. Mais cette année, les 24 jours du web étant remplacés par #nowwwel, nous pouvons nous inviter !</p> 
 
 <p>Alors la semaine dernière, pas très réveillée, je lis l’article de <a href="  http://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/" >HteuMeuleu</a> et très enjouée par l’idée… je m’inscris ! Je pars ensuite au boulot, tranquillement, prends mon petit café du matin, et me remémore rapidement mes actions du réveil…</p>
 
