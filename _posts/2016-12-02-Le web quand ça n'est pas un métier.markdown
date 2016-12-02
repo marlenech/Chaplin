@@ -29,7 +29,7 @@ C’est là qu’il faut réfléchir à des astuces pour trouver du temps, en de
 
 -	Exercer son métier loin de chez soi et profiter du temps de trajet en bus / train pour étudier (bien sûr, cette astuce ne fonctionne pas pour un long trajet en voiture, hormis peut être si ce trajet comprend un passage par la rocade bordelaise). J’ai bossé quelques années avec un trajet de 3 heures de bus par jour, ça m’a beaucoup aidé !
 -	Utiliser le dernier livre acquis de 500 pages sur le sujet en renfort du mur de lego de son petit garçon, et pouvoir ainsi apprendre tout en se faisant envahir par une armée de dinosaures volants,
--	Se coucher plus tard que toute sa maisonnée, soit se coucher très tard, surtout quand le terme ‘’maisonnée’’ inclus le chat, et ainsi s’entrainer à coder dans le calme (Avertissement : cette astuce ne doit en aucun cas être reproduite chez soi la veille d’un rendez-vous client fixé à la première heure, entretien annuel, formation mega super importante, etc… bref, soyez raisonnable !).
+-	Se coucher plus tard que toute sa maisonnée, soit se coucher très tard, surtout quand le terme ‘’maisonnée’’ inclut le chat, et ainsi s’entrainer à coder dans le calme (Avertissement : cette astuce ne doit en aucun cas être reproduite chez soi la veille d’un rendez-vous client fixé à la première heure, entretien annuel, formation mega super importante, etc… bref, soyez raisonnable !).
 <br />
 
 ---
