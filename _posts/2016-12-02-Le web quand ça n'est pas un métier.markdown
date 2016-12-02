@@ -44,6 +44,7 @@ Enfin, de retour de ‘’l’apéro’’, si vous êtes encore frais, il peut 
 Le forum le plus actif de tous les temps sur le sujet, c’est le fameux <a href= "http://stackoverflow.com/" >Stack Overflow</a>, qui a comme petit inconvénient d’être exclusivement en Anglais. Mais comme, dans votre quête d’apprendre, vous aurez petit à petit lu beaucoup de pépites d’articles en anglais via Twitter, vous deviendrez bien plus vite que vous le pensez « bilingue web » (= bilingue uniquement sur les sujets liés à la conception web, et tout ce qui s’y rattachent ; votre capacité ne s’étendra pas à la rédaction en anglais d’un mail explicatif de la formule de calcul des congés payés à destination d’un client par exemple). En attendant d’acquérir ce super pouvoir, heureusement qu’il existe des initiatives comme celle qui fait naître cet article, les 24 jours du web de <a href= "http://www.hteumeuleu.fr/" >HTeuMeuLeu </a>, pour offrir de plus en plus d’articles pointilleux et techniques sur la programmation web en <span class="highlight-span">français</span> (la partie pointilleuse de l’article que vous êtes en train de lire a été rattachée à un attribut CSS display: none; désolé !).
 <br/>
 
+
 > Apprendre et coder pour le plaisir
 
 L’intérêt du loisir, le vrai loisir, c’est d’y prendre du plaisir. Le fait de ne pas bosser dans le web laisse une grande part de liberté en terme d’apprentissage, de conception et de lancement de projet. Il vous appartient de choisir vos outils, vos langages et votre approche pour arriver à vos fins.
@@ -60,7 +61,7 @@ Les mêmes collègues (à peu près)… lors de l’élimination d’une anomali
 
 <img src ="http://i778.photobucket.com/albums/yy65/kaelasgifsandcrap/gifs/2m41yte.gif" />
 
-
+###
 > Mais penser à sa carrière professionnelle
 
 Quand le code vous embarque des nuits entières devant votre clavier, il est tout de même difficile de ne pas rêver de pouvoir coder au boulot un jour. Lorsque nous ne sommes pas issu d’une formation de développeur, il faut alors pouvoir démontrer ses compétences. Mais les compétences en développement web s’acquièrent au fil des années, à force d’entraînement, de réalisations de projets, etc.
@@ -87,7 +88,7 @@ Quand on n’est pas du métier et qu’on ne connaît pas des vrais gens du web
 <img src =
 "http://lpmn-cergy.rhcloud.com/content/images/2015/09/harry-potter.gif" />
 
-
+###
 > Ne jamais baisser les bras
 
 Coder, c’est plein de possibilités, de réflexions, de fonctionnalités… coder, c’est compliqué ! Et quand coder n’est qu’un loisir, ça l’est sans doute encore plus. Au boulot, dans tous les métiers, l’expérience fait que, petit à petit, on acquiert une capacité à appréhender diverses problématiques, une multitude de cas pratiques se présentent à nous. Quand on code chez soi, sur des projets perso, les seules problématiques sont celles qui émanent de notre idée de base. En quelque sorte, on créé nos problématiques, nos obstacles à franchir. Et donc, il est courant de se retrouver face à un cas de figure que l’on n'avait jamais vu auparavant. 
