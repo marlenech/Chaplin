@@ -43,7 +43,7 @@ Il est nécessaire que l’utilisateur comprenne rapidement comment obtenir le r
 
 >	Application simple et rapide d’utilisation
 
-Lors du conversion de salaire brut en net, les cotisations appliquées diffèrent selon le statut du salarié, son temps de travail, son secteur d’activité, etc. C’est pourquoi je dois mettre en place un questionnaire sur l’application à destination de l’utilisateur pour obtenir ces différentes réponses afin de proposer un calcul fiable. Toutefois, ce questionnaire doit être simplifié et rapide afin que l’utilisateur obtienne un résultat dans un très bref délai.
+Lors d'une conversion de salaire brut en net, les cotisations appliquées diffèrent selon le statut du salarié, son temps de travail, son secteur d’activité, etc. C’est pourquoi je dois mettre en place un questionnaire sur l’application à destination de l’utilisateur pour obtenir ces différentes réponses afin de proposer un calcul fiable. Toutefois, ce questionnaire doit être simplifié et rapide afin que l’utilisateur obtienne un résultat dans un très bref délai.
 
 >	Application jolie
 
