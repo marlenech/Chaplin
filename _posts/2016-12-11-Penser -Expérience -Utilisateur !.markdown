@@ -32,19 +32,19 @@ D’ordre général, un utilisateur attend d’une application qu’elle soit :
 
 Mais il faut aussi que je détermine ce que l’utilisateur de <span class="highlight-span">mon</span> application va attendre. Pour cela, je me base sur les attentes générales mais également sur les demandes régulières de nos clients en cabinet d’expertise comptable. 
 
->	Application gratuite
+> Application gratuite
 
 Nos clients, employeurs, nous demandent régulièrement des simulations de salaire pour connaître le coût global d’un salarié. Ils nous demandent également d’évaluer un net via un salaire brut pour permettre, dans un processus de recrutement, d’annoncer le salaire net proposé aux candidats. Ces fonctionnalités doivent être alors les principales de l’application et doivent être proposées gratuitement.
 
->	Application fonctionnelle
+> Application fonctionnelle
 
 Il est nécessaire que l’utilisateur comprenne rapidement comment obtenir le résultat qu’il souhaite. Il est alors important de proposer une navigation simple et d’afficher les deux principales fonctionnalités proposées dès le premier écran de l’application. Le résultat proposé doit quant à lui être fiable bien entendu.
 
->	Application simple et rapide d’utilisation
+> Application simple et rapide d’utilisation
 
 Lors d'une conversion de salaire brut en net, les cotisations appliquées diffèrent selon le statut du salarié, son temps de travail, son secteur d’activité, etc. C’est pourquoi je dois mettre en place un questionnaire sur l’application à destination de l’utilisateur pour obtenir ces différentes réponses afin de proposer un calcul fiable. Toutefois, ce questionnaire doit être simplifié et rapide afin que l’utilisateur obtienne un résultat dans un très bref délai.
 
->	Application jolie
+> Application jolie
 
 Parce qu’il est toujours plus agréable de naviguer sur une application au design travaillé, et qu’il est nécessaire de se démarquer des différentes applications de conversion existantes, je dois réfléchir à un design attrayant pour l’application. Je pense notamment à une présentation des fonctionnalités sous forme de <a href="https://developer.android.com/reference/android/support/v7/widget/CardView.html">CardView</a> et à utiliser des animations, par exemple pour le questionnaire.
 
