@@ -2,7 +2,7 @@
 ---
 ---
 
-###65 jours et 06h58 plus tard...
+### 65 jours et 06h58 plus tard...
 
 Aujourd’hui, je vais vous parler d’<span class="highlight-span">UX</span>. C’est un terme assez à la mode ces derniers temps mais si vous n’en avez pas entendu parler, l’UX c’est l’<span class="highlight-span">Expérience Utilisateur</span>. Cette notion consiste à rendre l’utilisateur <span class="highlight-span">central</span> lors de la conception d’une application (s’applique également à un site web, ou toute autre réalisation), c’est à dire que l’on va prendre en considération les besoins de l’utilisateur de manière globale pour répondre au mieux à ses attentes. Attention à ne pas confondre l’UX à l’UI (= Interface utilisateur), ce dernier se limitant à l’utilisation d’éléments graphiques et/textuels pour proposer à l’utilisateur une application attrayante. Dans la notion d’UX, nous allons penser l’ensemble de la conception de l’application afin qu’elle soit attrayante pour l’utilisateur, du design aux fonctionnalités, jusqu’à l’obtention du résultat attendu par celui-ci. 
 
