@@ -4,9 +4,9 @@
 
 ###65 jours et 06h58 plus tard...
 
-Aujourd’hui, je vais vous parler d’UX. C’est un terme assez à la mode ces derniers temps mais si vous n’en avez pas entendu parler, l’UX c’est l’Expérience Utilisateur. Cette notion consiste à rendre l’utilisateur central lors de la conception d’une application (s’applique également à un site web, ou toute autre réalisation), c’est à dire que l’on va prendre en considération les besoins de l’utilisateur de manière globale pour répondre au mieux à ses attentes. Attention à ne pas confondre l’UX à l’UI (= Interface utilisateur), ce dernier se limitant à l’utilisation d’éléments graphiques et/textuels pour proposer à l’utilisateur une application attrayante. Dans la notion d’UX, nous allons penser l’ensemble de la conception de l’application afin qu’elle soit attrayante pour l’utilisateur, du design aux fonctionnalités, jusqu’à l’obtention du résultat attendu par celui-ci. 
+Aujourd’hui, je vais vous parler d’<span class="highlight-span">UX</span>. C’est un terme assez à la mode ces derniers temps mais si vous n’en avez pas entendu parler, l’UX c’est l’<span class="highlight-span">Expérience Utilisateur</span>. Cette notion consiste à rendre l’utilisateur <span class="highlight-span">central</span> lors de la conception d’une application (s’applique également à un site web, ou toute autre réalisation), c’est à dire que l’on va prendre en considération les besoins de l’utilisateur de manière globale pour répondre au mieux à ses attentes. Attention à ne pas confondre l’UX à l’UI (= Interface utilisateur), ce dernier se limitant à l’utilisation d’éléments graphiques et/textuels pour proposer à l’utilisateur une application attrayante. Dans la notion d’UX, nous allons penser l’ensemble de la conception de l’application afin qu’elle soit attrayante pour l’utilisateur, du design aux fonctionnalités, jusqu’à l’obtention du résultat attendu par celui-ci. 
 
-Pourquoi penser UX lorsque l’on réalise une application ? Le Google Play (= Store officiel des applications Android) compte plus de 2 400 000 applis… d’où une énorme concurrence ! Alors autant vous dire que lorsqu’un utilisateur, parmi les 2 400 00 applis, télécharge votre application, il faut lui faire plaisir, lui donner l’envie d’utiliser votre appli, régulièrement, en parler, la partager. Pour résumer, lorsqu’un utilisateur visite votre application, il faut provoquer chez lui ce type de réaction :
+Pourquoi penser UX lorsque l’on réalise une application ? Le Google Play (= Store officiel des applications Android) compte plus de <span class="highlight-span">2 400 000 applis</span>… d’où une énorme concurrence ! Alors autant vous dire que lorsqu’un utilisateur, parmi les 2 400 00 applis, télécharge votre application, il faut lui faire plaisir, lui donner l’envie d’utiliser votre appli, régulièrement, en parler, la partager. Pour résumer, lorsqu’un utilisateur visite votre application, il faut provoquer chez lui ce type de réaction :
 
 <img src = "http://www.reactiongifs.com/wp-content/uploads/2013/06/umad.gif"/>
 
@@ -31,25 +31,25 @@ D’ordre général, un utilisateur attend d’une application qu’elle soit :
 -	rapide et simple d’utilisation,
 -	jolie.
 
-Mais il faut aussi que je détermine ce que l’utilisateur de mon (souligné) application va attendre. Pour cela, je me base sur les attentes générales mais également sur les demandes régulières de nos clients en cabinet d’expertise comptable. 
+Mais il faut aussi que je détermine ce que l’utilisateur de <span class="highlight-span">mon</span> application va attendre. Pour cela, je me base sur les attentes générales mais également sur les demandes régulières de nos clients en cabinet d’expertise comptable. 
 
-➢	Application gratuite
+>	Application gratuite
 
 Nos clients, employeurs, nous demandent régulièrement des simulations de salaire pour connaître le coût global d’un salarié. Ils nous demandent également d’évaluer un net via un salaire brut pour permettre, dans un processus de recrutement, d’annoncer le salaire net proposé aux candidats. Ces fonctionnalités doivent être alors les principales de l’application et doivent être proposées gratuitement.
 
-➢	Application fonctionnelle
+>	Application fonctionnelle
 
 Il est nécessaire que l’utilisateur comprenne rapidement comment obtenir le résultat qu’il souhaite. Il est alors important de proposer une navigation simple et d’afficher les deux principales fonctionnalités proposées dès le premier écran de l’application. Le résultat proposé doit quant à lui être fiable bien entendu.
 
-➢	Application simple et rapide d’utilisation
+>	Application simple et rapide d’utilisation
 
 Lors du conversion de salaire brut en net, les cotisations appliquées diffèrent selon le statut du salarié, son temps de travail, son secteur d’activité, etc. C’est pourquoi je dois mettre en place un questionnaire sur l’application à destination de l’utilisateur pour obtenir ces différentes réponses afin de proposer un calcul fiable. Toutefois, ce questionnaire doit être simplifié et rapide afin que l’utilisateur obtienne un résultat dans un très bref délai.
 
-➢	Application jolie
+>	Application jolie
 
 Parce qu’il est toujours plus agréable de naviguer sur une application au design travaillé, et qu’il est nécessaire de se démarquer des différentes applications de conversion existantes, je dois réfléchir à un design attrayant pour l’application. Je pense notamment à une présentation des fonctionnalités sous forme de <a href="https://developer.android.com/reference/android/support/v7/widget/CardView.html">CardView</a> et à utiliser des animations, par exemple pour le questionnaire.
 
-Voilà ma stratégie UX !
+Voilà donc ma stratégie UX !
 
 <img src = "http://i.giphy.com/mazKlKXo7b0BO.gif"/>
 
