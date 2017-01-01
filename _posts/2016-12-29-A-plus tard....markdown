@@ -22,6 +22,6 @@ Bref, quand un gestionnaire de paie part le matin du 2 janvier au travail, c’e
 
 <img src = "http://i.skyrock.net/7184/78357184/pics/3188359983_1_2_oLi01CPQ.gif"/>
 
-Pour assurer de façon efficace cette période, bénéficier d’un temps de sommeil raisonnable, être un minimum disponible pour courir après la trottinette de mon fils ayant entrepris une superbe descente…sans avoir au préalable acquis la notion de freinage, chaque année le mois de janvier est un mois sans développement, ou seulement le strict nécessaire. Vous l’aurez alors compris, le mois de janvier sera un mois <span class="highlight-span">sans article</span> sur le blog. Mais n’oubliez pas de revenir en février !
+Pour assurer de façon efficace cette période, bénéficier d’un temps de sommeil raisonnable, être un minimum disponible pour courir après la trottinette de mon fils ayant entrepris une superbe descente…sans avoir au préalable acquis la notion de freinage, chaque année le mois de janvier est un mois sans développement, sans code, ou seulement le strict nécessaire. Vous l’aurez alors compris, le mois de janvier sera un mois <span class="highlight-span">sans article</span> sur le blog. Mais n’oubliez pas de revenir en février !
 
 Je vous dis à bientôt !
