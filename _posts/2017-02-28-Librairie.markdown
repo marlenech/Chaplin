@@ -30,5 +30,6 @@ J’ai inclus une partie de mon code java dans une <span class="highlight-span">
 
 Voici alors un premier rendu 
 
+<img src = "https://marlenech.github.io/img/fev.-28-2017.gif"/>
 
 A bientôt !
