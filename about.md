@@ -18,10 +18,6 @@ Mes réalisations :
 
 > <a href="https://itunes.apple.com/fr/app/le-pont-chaban-delmas-bordeaux/id663031214?mt=8">Les levées du Pont Chaban Delmas Bordeaux (IOS)</a>,
 
-> <a href="http://trouvetonjob.fr/">TrouveTonJob.fr (service de réalisations de CV et Lettres de motivation)</a>,
-
-> <a href="http://cvbranding.com/">CvBranding.com (Personal branding via les réseaux sociaux professionnels)</a>.
-
 Pour me contacter : <a href="mailto:italikdesignbordeaux@gmail.com"> italikdesignbordeaux@gmail.com</a>
 
 
