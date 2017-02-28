@@ -4,7 +4,7 @@ Deux mois se sont écoulés depuis mon dernier article, deux mois à finaliser l
 
 Pendant ce temps, l’avancement de mon projet d’appli…
 
-<img src = "http://gph.is/18RYRSh"/>
+<img src = "http://i.giphy.com/EoeZCXWwmMIH6.gif"/>
 
 Heureusement, j’ai eu le temps de m’y pencher ces derniers jours. Je m’étais arrêtée à l’intégration de mes premières « CardView » lors de mon précédent article :
 
