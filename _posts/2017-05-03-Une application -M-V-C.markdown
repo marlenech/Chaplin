@@ -10,6 +10,7 @@ Comme je l’ai déjà évoqué sur ce blog, j’ai développé il y a quelques 
 
 En ce qui concerne le projet CodingPaye, voici où j’en suis :
 
+<img src = "https://marlenech.github.io/img/gif_03052017.gif"/>
 
 Hormis le fait que les interfaces sont évidemment à retravailler,  j’ai réalisé mon premier <span class="highlight-span">calcul</span> sous Android ! Pour cela, il m’a fallu récupérer la donnée saisie par l’utilisateur dans l’EditText (= zone de saisie), la convertir en String (= chaîne de caractères) afin de me permettre de vérifier que l’EditText ne soit pas vide et contienne au moins un caractère et ainsi, lorsque la condition est remplie, convertir la chaîne dans un format me permettant d’intégrer la saisie dans un calcul (type float (ou double) = nombre décimal), puis lancer le calcul. 
 
