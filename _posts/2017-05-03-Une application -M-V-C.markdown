@@ -24,7 +24,7 @@ Pour mener à bien cette mission, j’ai avant tout réfléchi à une architectu
 Heureusement, il existe pour cela l’architecture MVC (Model View Controller).
 Initialement, lorsque l’on développe une application Android, le principe est de connecter chaque interface (vues de l’application) à une Activity (= classes qui vont déterminer les actions à appliquer pour chaque élément de l’interface). Ainsi, chaque interface est branchée à un modèle. L’interface affiche un bouton, et le modèle intègre le code évènementiel lors du clic sur ce bouton. Avec cette méthode, dès que l’interface change, le modèle est à changer, et vice versa.
 
-Avec l’architecture MVC, le principe est d’ajouter dans notre arborescence un contrôleur. Celui ci va alors servir de pont entre l’interface et le modèle et c’est lui qui va absorber les changements. Notre modèle gère les données de l’application, l’interface détermine la vue dans l’application et enfin le contrôleur fait le lien entre l’interface et les données pour lancer les actions nécessaires au fonctionnement de l’application, modifier les vues si nécessaire, etc.
+Avec l’architecture MVC, le principe est d’ajouter dans notre arborescence un contrôleur. Celui ci va alors servir de pont entre l’interface et le modèle et c’est lui qui va absorber les changements. Notre modèle gère les données de l’application, l’interface détermine la vue et enfin le contrôleur fait le lien entre l’interface et les données pour lancer les actions nécessaires au fonctionnement de l’application, modifier les vues si nécessaire, etc.
 
 Ainsi cette méthode va me permettre d’organiser mes calculs et intervenir rapidement, sans modifier profondément l’application lors de tout changement ou évolution.
 
