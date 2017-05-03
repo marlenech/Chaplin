@@ -12,6 +12,7 @@ Aujourd'hui, je travaille dans le service social d'un cabinet d'expertise compta
 En parallèle, j'ai commencé par développer des petits sites web pour des projets personnels, puis je me suis intéressée tout particulièrement au développement sur mobile, <span class="highlight-span">Android et IOS</span>.
 
 
+
 Mes réalisations :
 
 <span class="highlight-span">Android</span>
