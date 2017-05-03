@@ -29,7 +29,8 @@ Ainsi cette méthode va me permettre d’organiser mes calculs et intervenir rap
 
 Il ne me reste plus qu’à mettre ceci en pratique !
 
-<img src = "http://gph.is/2npfYVD"/>
+<img src = "https://giphy.com/gifs/stanaustralia-stan-3oKIPx16LFvftHPLiM"/>
+
 
 
 A bientôt !
