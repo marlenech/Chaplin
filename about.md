@@ -14,9 +14,17 @@ En parallèle, j'ai commencé par développer des petits sites web pour des proj
 
 Mes réalisations :
 
-> <a href="https://play.google.com/store/apps/details?id=com.italikdesign.pont.chaban&hl=fr">Les levées du Pont Chaban Delmas Bordeaux (Android)</a>,
+<span class="highlight-span">Android</span>
+
+> <a href="https://play.google.com/store/apps/details?id=com.italikdesign.pont.chaban&hl=fr">Les levées du Pont Chaban Delmas Bordeaux</a>,
+
+> <a href="https://play.google.com/store/apps/details?id=com.italikdesign.ponts.bordeaux&hl=fr">Les Ponts de Bordeaux</a>.
+
+<span class="highlight-span">IOS</span>
 
 > <a href="https://itunes.apple.com/fr/app/le-pont-chaban-delmas-bordeaux/id663031214?mt=8">Les levées du Pont Chaban Delmas Bordeaux (IOS)</a>,
+
+> <a href="https://itunes.apple.com/fr/app/les-ponts-de-bordeaux/id1219781460?mt=8">Les Ponts de Bordeaux</a>.
 
 Pour me contacter : <a href="mailto:italikdesignbordeaux@gmail.com"> italikdesignbordeaux@gmail.com</a>
 
