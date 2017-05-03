@@ -1,8 +1,8 @@
-### 144 jours et 1h03 plus tard...
+### 207 jours et 5h48 plus tard...
 
 <img src = "http://gph.is/2eYJVen"/>
 
-Quoi ??? Un mois s’est déjà écoulé depuis mon dernier article ???
+Quoi ??? Deux mois se sont déjà écoulés depuis mon dernier article ???
 
 Je vous vois déjà venir… « elle va encore nous sortir ses histoires de DSN, DADS, DUCS, et tous ses trucs bizarres qui lui prennent du temps au boulot, tu vas voir Georgette, c’est toujours les mêmes excuses ! ». Et bien non Georgette ! Figure toi que j’ai codé depuis tout ce temps, mais je le reconnais, pas vraiment sur le projet de CodingPaye.
 
