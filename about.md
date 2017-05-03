@@ -23,7 +23,7 @@ Mes réalisations :
 
 <span class="highlight-span">IOS</span>
 
-> <a href="https://itunes.apple.com/fr/app/le-pont-chaban-delmas-bordeaux/id663031214?mt=8">Les levées du Pont Chaban Delmas Bordeaux (IOS)</a>,
+> <a href="https://itunes.apple.com/fr/app/le-pont-chaban-delmas-bordeaux/id663031214?mt=8">Les levées du Pont Chaban Delmas Bordeaux</a>,
 
 > <a href="https://itunes.apple.com/fr/app/les-ponts-de-bordeaux/id1219781460?mt=8">Les Ponts de Bordeaux</a>.
 
