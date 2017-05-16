@@ -1,7 +1,5 @@
 ### 158 jours et 5h36 plus tard...
 
-<img src = "http://gph.is/2eYJVen"/>
-
 Cette semaine, j’ai testé différents codes, différentes façon d’organiser mes fichiers, renommé mes variables une quinzaine de fois, ajouté des données, créé et supprimé des fichiers, etc. L’application a connu alors une dizaine de versions différentes en seulement sept jours.
 
 Lorsque j’ai commencé la programmation, quand j’étais encore jeune, c’est à dire hier… avant hier… enfin bref (je vais changer de sujet), lorsqu’une version de mon programme était fonctionnelle, je la sauvegardais dans un dossier à part et je continuais le développement sur le programme initial. Ainsi, j’avais la possibilité de reprendre le développement à partir de la version sauvegardée au cas où le développement d’une nouvelle fonctionnalité sur le programme initial n’était pas probant. Et je procédais ainsi pour chaque fonctionnalité avec autant de sauvegardes que de fonctionnalités réussies.
