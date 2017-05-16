@@ -34,7 +34,7 @@ Voici alors comment se présente cette modification dans Bitbucket.
 
 <img src = "https://marlenech.github.io/img/gif_git_2.gif"/>
 
-J’ai ainsi accès de manière très aisée à l’ensemble des modifications que j’ai pu effectuer dans mon code, et je peux très facilement revenir sur des versions antérieures de l’appli. Si vous souhaitez en savoir plus sur l’environnement Git et l’ensemble de ses commandes et fonctionnalités, voici le <a href="https://git-scm.com/book/fr/v2">lien de la documentation en français</a>.
+J’ai ainsi accès de manière très aisée à l’ensemble des modifications que j’ai pu effectuer dans mon code, et je peux très facilement revenir à des versions antérieures de l’appli. Si vous souhaitez en savoir plus sur l’environnement Git et l’ensemble de ses commandes et fonctionnalités, voici le <a href="https://git-scm.com/book/fr/v2">lien de la documentation en français</a>.
 
 Voilà, tout ça pour vous dire que pour moi, Git c’est un peu comme…
 
