@@ -24,13 +24,15 @@ Github propose des hébergements privés pour versionner un projet sans que celu
 
 Une petite démonstration :
 
-<img src = ""/>
+<img src = "https://marlenech.github.io/img/gif_git_1.gif"/>
 
 Après avoir modifié le temps d’attente entre deux animations dans une de mes vues, j’ai lancé le terminal d’Android Studio afin de saisir mes commandes Git (A noter que je suis pas défaut en lien avec le serveur distant, hébergé par Bitbucket). J’ai commencé par un ‘git  commit –am’’temps à 1000’’ : je valide ma modification par l’expression « commit », indexe le fichier dans Git par « -a », et ajoute le message correspondant à ma modification par « -m » (les commandes –a et –m peuvent être rattachées pour gagner du temps). Enfin, j’ai lancé la commande « git push origin demo » qui m ‘a permis alors de « pousser » ma modification sur le serveur distant.
 
 Je précise que, dans le cadre du développement de mon projet, je travaille sous deux branches : master et dev. Je développe et teste mes fonctionnalités sous la branche dev, et lorsque l’appli est opérationnelle, je pousse ces nouvelles fonctionnalités sur la branche master (= la branche fonctionnelle). J’ai créé en complément la branche demo simplement pour vous faire partager cette petite démonstration.
 
 Voici alors comment se présente cette modification dans Bitbucket.
+
+<img src = "https://marlenech.github.io/img/gif_git_2.gif"/>
 
 J’ai ainsi accès de manière très aisé à l’ensemble des modifications que j’ai pu effectuer dans mon code, et je peux très facilement revenir sur des versions antérieures de l’appli. Si vous souhaitez en savoir plus sur l’environnement Git et l’ensemble de ses commandes et fonctionnalités, voici le <a href="https://git-scm.com/book/fr/v2">lien de la documentation en français</a>.
 
