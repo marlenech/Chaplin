@@ -133,6 +133,6 @@ Je conserve ici un salaire de 3000 € mais je modifie le nombre d’heures par 
 
 Ouf ! Il ne me reste plus maintenant qu’à créer mes méthodes pour réaliser la conversion du salaire d’un cadre et retravailler l’ensemble de mon interface pour la rendre plus harmonieuse, pour pouvoir vous proposer une première version Beta de l’appli !
 
-Gif montagne à franchir
+<img src = "https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif"/>
 
 A bientôt !
