@@ -1,6 +1,6 @@
 ### 193 jours et 0h28 plus tard...
 
-Pas d’inquiétude ! Je ne vais pas vous faire un tuto sur comment réussir la peinture de vos plafonds. Non, quand je parle de plafonds, ce sont les plafonds de la sécurité sociale.
+Pas d’inquiétude ! Je ne vais pas vous faire un tuto sur comment réussir la peinture de vos plafonds. Non, quand je parle de plafonds, ce sont les plafonds de la sécurité sociale...
 
 <img src = "https://media.giphy.com/media/sA8HUiA09PWtq/giphy.gif"/>
 
