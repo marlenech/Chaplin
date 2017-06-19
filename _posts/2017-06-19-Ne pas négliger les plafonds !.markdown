@@ -25,7 +25,6 @@ Donc pour vous donner un exemple, pour calculer les cotisations Retraite pour un
 Voici comment ces étapes se présentent au sein de mon code :
 
 Ma méthode PlafondType() récupère le type de salaire selectionné par l’utilisateur :
-(Les indications après le signe "//" sont des commentaires.)
 
 ```java
 //Plafond : détermination selon le type de salaire saisi
