@@ -29,7 +29,8 @@ Voici comment ces étapes se présentent au sein de mon code :
 
 Ma méthode PlafondType() récupère le type de salaire selectionné par l’utilisateur :
 
-```java
+{% highlight java %}
+
 //Plafond : détermination selon le type de salaire saisi
 
 
@@ -51,11 +52,15 @@ float plafondType;
 
     return plafondType;
 }
-```
+
+{% endhighlight java %}
 
 Ensuite la méthode PlafondHoraire() récupère le résultat de PlafondType() et le proratise par le nombre d’heures (=horaire) saisi par l’utilisateur si le nombre d’heures est inférieur à un temps plein (=TempsPleinRef()) :
 
-```java
+{% highlight java %}
+
+//Plafond : détermination selon l'horaire saisi à partir du type de plafond
+
 public Float PlafondHoraire() {
 
     float plafondHoraire;
@@ -69,13 +74,15 @@ public Float PlafondHoraire() {
 
     return plafondHoraire;
 }
-```
+
+{% endhighlight java %}
 
 Mon plafond ainsi déterminé, je peux désormais lancer le calcul de mes cotisations retraite en fonction du plafond :
 
 {% highlight java %}
 
 //Calcul des cotisations Retraite TA Part Salariale
+
 public Float CalculRetraiteTAPS() {
 
     float calRetraiteTaPs;
