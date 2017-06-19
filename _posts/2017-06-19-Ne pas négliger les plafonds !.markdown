@@ -24,7 +24,8 @@ Donc pour vous donner un exemple, pour calculer les cotisations Retraite pour un
 
 Voici comment ces étapes se présentent au sein de mon code :
 
-Ma méthode PlafondType() récupère le type de salaire selectionné par l’utilisateur
+Ma méthode PlafondType() récupère le type de salaire selectionné par l’utilisateur :
+(Les indications après le signe "//" sont des commentaires.)
 
 ```java
 //Plafond : détermination selon le type de salaire saisi
@@ -32,34 +33,30 @@ Ma méthode PlafondType() récupère le type de salaire selectionné par l’uti
 
 public Float PlafondType() {
 
-
-
-
+float plafondType;
 
     switch (plafond) {
-        case 0:
-            plafondType = PlafondSSJ();
+        case 0: //Si le type de salaire est journalier
+            plafondType = PlafondSSJ(); //=Plafond journalier
             break;
-        case 1:
-            plafondType = PlafondSS();
+        case 1: //Si le type de salaire est mensuel
+            plafondType = PlafondSS(); //=Plafond mensuel
             break;
-        case 2:
-            plafondType = PlafondSSA();
+        case 2: //Si le type de salaire est annuel
+            plafondType = PlafondSSA(); //=Plafond annuel
             break;
     }
 
     return plafondType;
 }
-</code>
+```
 
-Ensuite la méthode PlafondHoraire() récupère le résultat de PlafondType() et le proratise par le nombre d’heures (=horaire) saisi par l’utilisateur si le nombre d’heures est inférieur à un temps plein (=TempsPleinRef())
+Ensuite la méthode PlafondHoraire() récupère le résultat de PlafondType() et le proratise par le nombre d’heures (=horaire) saisi par l’utilisateur si le nombre d’heures est inférieur à un temps plein (=TempsPleinRef()) :
 
-<code>
+```java
 public Float PlafondHoraire() {
 
     float plafondHoraire;
-
-
 
     if (horaire < TempsPleinRef()) {
         plafondHoraire = (PlafondType() / TempsPleinRef()) * horaire;
@@ -70,17 +67,15 @@ public Float PlafondHoraire() {
 
     return plafondHoraire;
 }
-</code>
+```
 
-Mon plafond ainsi déterminé, je peux désormais lancer le calcul de mes cotisations retraite en fonction du plafond
+Mon plafond ainsi déterminé, je peux désormais lancer le calcul de mes cotisations retraite en fonction du plafond :
 
-<code>
+```java
 //Calcul des cotisations Retraite TA Part Salariale
 public Float CalculRetraiteTAPS() {
 
     float calRetraiteTaPs;
-
-
 
         if (salaire < PlafondHoraire()) {
             calRetraiteTaPs = (salaire * TotalTauxRetraiteTaPS()) / 100;
@@ -88,22 +83,16 @@ public Float CalculRetraiteTAPS() {
         else {
             calRetraiteTaPs = (PlafondHoraire() * TotalTauxRetraiteTaPS()) / 100;
         }
-
-
-
     return calRetraiteTaPs;
 
 }
-
 
 //Calcul des cotisations Retraite TB Part Salariale
 public Float CalculRetraiteTBPS() {
 
     float calRetraiteTbPs;
 
-
         if (salaire > PlafondHoraire() && salaire <= (PlafondHoraire()*3)) {
-
 
             calRetraiteTbPs = ((salaire - PlafondHoraire()) * TotalTauxRetraiteTbPS()) / 100;
         } else if (salaire > (PlafondHoraire()*3)) {
@@ -113,12 +102,12 @@ public Float CalculRetraiteTBPS() {
             {
                 calRetraiteTbPs = 0;
             }
-
-
+            
     return calRetraiteTbPs;
 
 }
-//Calcul des cotisations Retraite TA Part Salariale
+
+//Calcul des cotisations Retraite Totale Part Salariale
 public Float CalculRetraiteTotPS() {
 
     float calRetraiteTotPs = CalculRetraiteTAPS() + CalculRetraiteTBPS();
@@ -127,7 +116,7 @@ public Float CalculRetraiteTotPS() {
 
 }
 
-</code>
+```
 
 Les méthodes TotalTauxRetraiteTaPS() et TotalTauxRetraiteTbPS() sont définies dans une autre classe et sont constituées simplement des taux appelés via ma base de données pour les cotisations de retraite complémentaire et Agff Tranche A et B.
 
