@@ -17,13 +17,13 @@ Mais cette méthode ne serait adaptée que dans le cas d’un salaire mensuel à
 
 Donc pour vous donner un exemple, pour calculer les cotisations Retraite pour un non-cadre, voici comment je procède :
 
--	Je récupère le salaire brut saisi par l’utilisateur,
--	Je récupère le contenu de la coche que l’utilisateur a sélectionné pour le type de salaire saisi « journalier », « mensuel » ou « annuel »,
--	Je détermine le plafond selon que le salaire soit journalier, mensuel ou annuel
--	Je récupère le nombre d’heures saisi par l’utilisateur si le salaire renseigné ne correspond pas à un temps plein,
--	Je détermine à nouveau le plafond dans le cas où le salaire soit équivalent à un temps partiel,
--	J’appelle via ma base de données les taux de cotisations Retraite Tranche A et B, ainsi que l’AGFF Tranche A et B,
--	J’applique ces taux au salaire saisi par l’utilisateur et/ou au PSS déterminé précedemment.
+1. Je récupère le salaire brut saisi par l’utilisateur,
+2. Je récupère le contenu de la coche que l’utilisateur a sélectionné pour le type de salaire saisi « journalier », « mensuel » ou « annuel »,
+3. Je détermine le plafond selon que le salaire soit journalier, mensuel ou annuel
+4. Je récupère le nombre d’heures saisi par l’utilisateur si le salaire renseigné ne correspond pas à un temps plein,
+5. Je détermine à nouveau le plafond dans le cas où le salaire soit équivalent à un temps partiel,
+6. J’appelle via ma base de données les taux de cotisations Retraite Tranche A et B, ainsi que l’AGFF Tranche A et B,
+7. J’applique ces taux au salaire saisi par l’utilisateur et/ou au PSS déterminé précedemment.
 
 Voici comment ces étapes se présentent au sein de mon code :
 
