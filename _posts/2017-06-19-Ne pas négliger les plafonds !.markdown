@@ -139,9 +139,9 @@ Je saisie un salaire de <span class="highlight-span">3000 €</span> pour <span 
 
 <img src = "https://marlenech.github.io/img/gif_plafond_2.gif"/>
 
-Je conserve ici un salaire de <span class="highlight-span">3000 €</span> mais je modifie le nombre d’heures par <span class="highlight-span">80 heures mensuelles</span>. Le plafond mensuel de la sécurité sociale se réduit alors à <span class="highlight-span">1724,27 €</span>. Il est alors supérieur au salaire saisi. Dans ce cas, une <span class="highlight-span">tranche B</span> va se déclencher. Les taux de cotisations sont de <span class="highlight-span">8,10%</span> pour la Retraite complémentaire salariale Tranche B et <span class="highlight-span">0,9%</span> pour l’AGFF salariale Tranche B. La cotisation salariale Retraite Tranche A sera alors de <span class="highlight-span">67,25 €</span> (=1724,27*3,9%) et de <span class="highlight-span">114,82 €</span> (=(3000-1724,27)*9%).
+Je conserve ici un salaire de <span class="highlight-span">3000 €</span> mais je modifie le nombre d’heures par <span class="highlight-span">80 heures mensuelles</span>. Le plafond mensuel de la sécurité sociale se réduit alors à <span class="highlight-span">1724,27 €</span>. Il est alors supérieur au salaire saisi. Dans ce cas, une <span class="highlight-span">tranche B</span> va se déclencher. Les taux de cotisations sont de <span class="highlight-span">8,10%</span> pour la Retraite complémentaire salariale Tranche B et <span class="highlight-span">0,9%</span> pour l’AGFF salariale Tranche B. La cotisation salariale Retraite Tranche A sera alors de <span class="highlight-span">67,25 €</span> (=1724,27x3,9%) et de <span class="highlight-span">114,82 €</span> (=(3000-1724,27)x9%).
 
-Ouf ! Il ne me reste plus maintenant qu’à créer mes méthodes pour réaliser la conversion du salaire d’un cadre et retravailler l’ensemble de mon interface pour la rendre plus harmonieuse, pour pouvoir vous proposer une première version bêta de l’appli !
+Ouf ! Il ne me reste plus maintenant qu’à créer mes méthodes pour réaliser la conversion du salaire d’un cadre et retravailler l’ensemble de mon interface pour la rendre plus harmonieuse, et ainsi pouvoir vous proposer une première version bêta de l’appli !
 
 <img src = "https://media.giphy.com/media/a9d3bbcM3ImXe/giphy.gif"/>
 
