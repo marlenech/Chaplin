@@ -73,7 +73,7 @@ public Float PlafondHoraire() {
 
 Mon plafond ainsi déterminé, je peux désormais lancer le calcul de mes cotisations retraite en fonction du plafond :
 
-<b>
+<p>
 ```java
 //Calcul des cotisations Retraite TA Part Salariale
 public Float CalculRetraiteTAPS() {
@@ -120,7 +120,7 @@ public Float CalculRetraiteTotPS() {
 }
 
 ```
-</b>
+</p>
 
 Les méthodes TotalTauxRetraiteTaPS() et TotalTauxRetraiteTbPS() sont définies dans une autre classe et sont constituées simplement des taux appelés via ma base de données pour les cotisations de retraite complémentaire et Agff Tranche A et B.
 
