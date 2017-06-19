@@ -73,9 +73,8 @@ public Float PlafondHoraire() {
 
 Mon plafond ainsi déterminé, je peux désormais lancer le calcul de mes cotisations retraite en fonction du plafond :
 
-<p>
-
 ```java
+<p>
 //Calcul des cotisations Retraite TA Part Salariale
 public Float CalculRetraiteTAPS() {
 
@@ -119,7 +118,7 @@ public Float CalculRetraiteTotPS() {
     return calRetraiteTotPs;
 
 }
-
+</p>
 ```
 
 </p>
