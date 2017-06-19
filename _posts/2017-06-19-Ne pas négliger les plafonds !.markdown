@@ -125,9 +125,11 @@ La tranche B de la cotisation Retraite ne devant pas dépasser 3 PSS, je compare
 
 Voici maintenant comment ces méthodes se présentent au sein de l’application (je précise que l’interface n’est pour le moment pas du tout finalisée !!!) :
 
+<img src = "https://marlenech.github.io/img/gif_plafond_1.gif"/>
 
 Je saisie un salaire de 3000 € pour 151,67 heures/mensuelles (soit un temps plein). Le plafond mensuel de la sécurité sociale étant de 3269 € et donc inférieur au salaire saisi, j’y applique seulement les taux de cotisations dus sur la tranche A. Les taux de cotisations sont de 3,10% pour la Retraite complémentaire salariale Tranche A et 0,8% pour l’AGFF salariale Tranche A. Ainsi, les cotisations retraite pour un salaire mensuel de 3000 € à temps plein est de 117 €.
 
+<img src = "https://marlenech.github.io/img/gif_plafond_2.gif"/>
 
 Je conserve ici un salaire de 3000 € mais je modifie le nombre d’heures par 80 heures mensuelles. Le plafond mensuel de la sécurité sociale se réduit alors à 1724,27 €. Il est alors supérieur au salaire saisi. Dans ce cas, une tranche B va se déclencher. Les taux de cotisations sont de 8,10% pour la Retraite complémentaire salariale Tranche B et 0,9% pour l’AGFF salariale Tranche B. La cotisation salariale Retraite Tranche A sera alors de 67,25 € (=1724,27*3,9%) et de 114,82 € (=(3000-1724,27)*9%).
 
