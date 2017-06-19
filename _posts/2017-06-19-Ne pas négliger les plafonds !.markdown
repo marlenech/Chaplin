@@ -8,7 +8,7 @@ Bon jusque là, rien de bien compliqué pour une intégration du PSS dans mon pr
 
 Mais cette méthode ne serait adaptée que dans le cas d’un salaire mensuel à temps plein. Or, dans l’application, je laisse le choix à l’utilisateur de convertir un salaire journalier, mensuel ou annuel. Il faut donc que je traite le plafond aussi bien journalier, mensuel qu’annuel. De plus, l’utilisateur doit pouvoir saisir un nombre d’heures lié au salaire renseigné si celui-ci ne correspond pas à un temps plein. Dans ce cas, il faut alors proratiser le plafond.
 
-<img src = "gif complexe"/>
+<img src = "https://media.giphy.com/media/11VFoOchZjsvn2/giphy.gif"/>
 
 Donc pour vous donner un exemple, pour calculer les cotisations Retraite pour un non-cadre, voici comment je procède :
 
@@ -119,7 +119,7 @@ Les méthodes TotalTauxRetraiteTaPS() et TotalTauxRetraiteTbPS() sont définies 
 
 La tranche B de la cotisation Retraite ne devant pas dépasser 3 PSS, je compare le salaire saisi par l’utilisateur avec 3 PSS, ainsi si le salaire est supérieur, j’applique les taux de cotisations de la Retraite Tranche B uniquement sur 3 plafonds et non pas le salaire total.
 
-Voici maintenant comment ces méthodes se présentent au sein de l’application (je précise que l’interface n’est pour le moment pas du tout finalisée !!!)
+Voici maintenant comment ces méthodes se présentent au sein de l’application (je précise que l’interface n’est pour le moment pas du tout finalisée !!!) :
 
 
 Je saisie un salaire de 3000 € pour 151,67 heures/mensuelles (soit un temps plein). Le plafond mensuel de la sécurité sociale étant de 3269 € et donc inférieur au salaire saisi, j’y applique seulement les taux de cotisations dus sur la tranche A. Les taux de cotisations sont de 3,10% pour la Retraite complémentaire salariale Tranche A et 0,8% pour l’AGFF salariale Tranche A. Ainsi, les cotisations retraite pour un salaire mensuel de 3000 € à temps plein est de 117 €.
