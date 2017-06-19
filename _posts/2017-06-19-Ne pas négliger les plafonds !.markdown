@@ -12,6 +12,7 @@ Bon jusque là, rien de bien compliqué pour une intégration du PSS dans mon pr
 
 Mais cette méthode ne serait adaptée que dans le cas d’un salaire mensuel à temps plein. Or, dans l’application, je laisse le choix à l’utilisateur de convertir un salaire journalier, mensuel ou annuel. Il faut donc que je traite le plafond aussi bien journalier, mensuel qu’annuel. De plus, l’utilisateur doit pouvoir saisir un nombre d’heures lié au salaire renseigné si celui-ci ne correspond pas à un temps plein. Dans ce cas, il faut alors proratiser le plafond.
 
+
 <img src = "https://media.giphy.com/media/11VFoOchZjsvn2/giphy.gif"/>
 
 Donc pour vous donner un exemple, pour calculer les cotisations Retraite pour un non-cadre, voici comment je procède :
