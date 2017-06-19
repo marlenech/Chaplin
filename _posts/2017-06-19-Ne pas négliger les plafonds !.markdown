@@ -1,6 +1,10 @@
 ### 193 jours et 0h28 plus tard...
 
-Pas d’inquiétude ! Je ne vais pas vous faire un tuto sur comment réussir la peinture de vos plafonds. Non, quand je parle de plafonds, ce sont les plafonds de la sécurité sociale (je n’ai pas dit que ça allait être plus intéressant qu’un tuto dédié à la peinture !). En matière de technique de paie, le plafond de la sécurité sociale (=PSS) est une donnée essentielle, c’est grâce à son montant que nous allons pouvoir déterminer le passage des différentes tranches de salaire et appliquer correctement les taux de cotisations en vigueur pour chaque tranche. Certaines bases de cotisations sont également parfois plafonnées au montant du PSS.
+Pas d’inquiétude ! Je ne vais pas vous faire un tuto sur comment réussir la peinture de vos plafonds. Non, quand je parle de plafonds, ce sont les plafonds de la sécurité sociale (je n’ai pas dit que ça allait être plus intéressant qu’un tuto dédié à la peinture !).
+
+<img src = "https://media.giphy.com/media/sA8HUiA09PWtq/giphy.gif"/>
+
+En matière de technique de paie, le plafond de la sécurité sociale (=PSS) est une donnée essentielle, c’est grâce à son montant que nous allons pouvoir déterminer le passage des différentes tranches de salaire et appliquer correctement les taux de cotisations en vigueur pour chaque tranche. Certaines bases de cotisations sont également parfois plafonnées au montant du PSS.
 
 Bon jusque là, rien de bien compliqué pour une intégration du PSS dans mon projet d’application. J’indique le montant du PSS mensuel dans ma base de données et récupère celui-ci à chaque conversion pour appliquer correctement les taux de cotisations en fonction du salaire brut saisi, selon qu’il soit inférieur ou supérieur au PSS.
 
