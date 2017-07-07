@@ -44,7 +44,7 @@ Par défaut, certains widgets ne s’affichent pas toujours de la façon dont no
 
 Voici par exemple la façon dont s’affiche une des interfaces de l’application.
 
-![](/img/prev1.jpg =100x20)
+<img src="/img/prev1.jpg =100x20" width= 200px/>
 
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… curseur !
 
