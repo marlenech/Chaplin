@@ -44,7 +44,7 @@ Par défaut, certains widgets ne s’affichent pas toujours de la façon dont no
 
 Voici par exemple la façon dont s’affiche une des interfaces de l’application.
 
-<img src="/img/prev2.jpg" width= "250px" />
+<img src="/img/prev2.jpg" width= "150px" />
 
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… curseur !
 
@@ -66,7 +66,7 @@ Le site s’adressant à de multiples utilisateurs à travers le globe, la seule
 
 Après quelques recherches m’orientant sur de fausses pistes, des tests infructueux, des heures de tentatives acharnées, j’ai enfin trouvé les mots clés de recherche Google qui allaient me sauver la mise : « android cursor between two edittext ». Un petit lien Stack Overflow plus loin, me voici enfin avec la solution : une simple balise complémentaire  <requestFocus/> à l’intérieur de la balise du widget, au sein de mon fichier xml, et le tour est joué !!!
 
-<img src="/img/prev1.jpg" width= "250px"v/>
+<img src="/img/prev1.jpg" width= "150px"/>
 
 <img src="https://media.giphy.com/media/9nCW9iugMDG4o/giphy.gif"/>
 
