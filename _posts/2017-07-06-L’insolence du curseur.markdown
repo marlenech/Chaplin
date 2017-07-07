@@ -44,6 +44,8 @@ Par défaut, certains widgets ne s’affichent pas toujours de la façon dont no
 
 Voici par exemple la façon dont s’affiche une des interfaces de l’application.
 
+<img src="/img/prev1.jpeg"/>
+
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… curseur !
 
 J’ai inséré deux widgets <EditText> dans l’interface afin de permettre à l’utilisateur de saisir ses cotisations prévoyance (part salariale & part patronale). Jusqu’ici tout va bien, sauf qu’à l’ouverture de l’interface, c’est le curseur du second EditText qui s’affiche (part patronale), au lieu du premier (part salariale), ce qui apparaîtrait plus logique.
