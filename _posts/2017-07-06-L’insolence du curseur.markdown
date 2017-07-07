@@ -13,6 +13,7 @@ Les éléments constituant les interfaces sont représentés par des widgets. Pa
 
 Voici par exemple une représentation XML du texte « bonjour » :
 
+{% highlight java %}
 < TextView
     android:id="@+id/texte"
     android:layout_width="match_parent"
@@ -22,6 +23,7 @@ Voici par exemple une représentation XML du texte « bonjour » :
     android:textStyle="bold"
     android:text= "bonjour"
 />
+{% endhighlight java %}
 
 Chaque ligne contenue dans le widget Textview définie un attribut :
 
@@ -36,7 +38,7 @@ Chaque ligne contenue dans le widget Textview définie un attribut :
 
 Voilà pour la partie théorique ! Dans la pratique, c’est…
 
-<img src = "gif complexe"/>
+<img src = "http://gph.is/2clyl7o"/>
 
 Par défaut, certains widgets ne s’affichent pas toujours de la façon dont nous l’aurions imaginé. Il est nécessaire alors d’agir sur les attributs afin d’obtenir le résultat escompté.  
 
