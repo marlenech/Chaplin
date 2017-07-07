@@ -1,8 +1,11 @@
+---
+---
+
 ### 215 jours et 8h06 plus tard...
 
-<img src = "http://gph.is/2eYJVen"/>
+<img src = "http://gph.is/282NTFq"/>
 
-Ça, c’est mon état depuis quelques jours : je travaille sur les interfaces de l’application !
+En ce moment, je travaille sur les interfaces de l’application !
 
 Les interfaces sous Android sont essentiellement réalisées sous le format XML, le code JAVA permettant ensuite de définir la façon dont réagiront les éléments XML. Une interface est représentée dans un Layout (= vue) qui pourra à son tour contenir un ou plusieurs Layouts, dans le but d’organiser les différents éléments de l’interface et les positionner à l’intérieur de la vue. Un Layout permet par exemple de positionner les éléments dans la vue sur une ligne horizontale, ou verticale (LinearLayout), un autre permet de positionner les éléments les uns par rapport aux autres (RelativeLayout), etc.
 
