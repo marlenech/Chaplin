@@ -27,19 +27,19 @@ Voici par exemple une représentation XML du texte « bonjour » :
 
 Chaque ligne contenue dans le widget Textview définit un <span class="highlight-span">attribut</span> :
 
-> android :id = définir une référence pour ce widget afin de nous permettre de l’appeler dans les différents fichiers de l’application,
+- <span class="highlight-span">android :id</span> = définir une référence pour ce widget afin de nous permettre de l’appeler dans les différents fichiers de l’application,
 
-> android :layout_width = déterminer la largeur de l’élément. Ici, la largeur sera celle de son élément parent, 
+- <span class="highlight-span">android :layout_width = déterminer la largeur de l’élément. Ici, la largeur sera celle de son élément parent, 
 
-> android:layout_height = déterminer la hauteur de l’élément. Ici, la hauteur sera la hauteur naturelle de l’élément,
+- <span class="highlight-span">android:layout_height</span> = déterminer la hauteur de l’élément. Ici, la hauteur sera la hauteur naturelle de l’élément,
 
-> android:textColor= définir la couleur du texte,
+- <span class="highlight-span">android:textColor</span> = définir la couleur du texte,
 
-> android:textSize= préciser la taille du texte,
+- <span class="highlight-span">android:textSize</span> = préciser la taille du texte,
 
-> android:textStyle= indiquer le style du texte (italique, gras, etc),
+- <span class="highlight-span">android:textStyle</span> = indiquer le style du texte (italique, gras, etc),
 
-> android:text= déterminer le texte à afficher.
+- <span class="highlight-span">android:text</span> = déterminer le texte à afficher.
 
 
 Voilà pour la partie théorique ! Dans la pratique, c’est…
