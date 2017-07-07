@@ -44,7 +44,7 @@ Par défaut, certains widgets ne s’affichent pas toujours de la façon dont no
 
 Voici par exemple la façon dont s’affiche une des interfaces de l’application.
 
-<img src="../img/prev1.jpeg"/>
+<img src="/img/prev1.jpg"/>
 
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… curseur !
 
@@ -56,23 +56,24 @@ Dans la documentation, il est indiqué que le widget EditText hérite des attrib
 
 Pour mon problème de curseur, je me suis alors intéressée de plus près aux attributs de « focus ». Mais après quelques tests sans succès, et une documentation plus approfondie du sujet, j’ai finalement découvert que les attributs « focus » géraient le positionnement du curseur, en fonction du texte saisi, et la navigation entre les différents EditText, mais pas le positionnement de départ, à l’affichage de l’interface.
 
-<Gif despespéré>
+<img src="https://media.giphy.com/media/TRFSdeDalM46I/giphy.gif"/>
 
-Mais heureusement, quand la documentation ne suffit pas à nous sortir de l’impasse, il existe l’arme absolue : stackoverflow.com (lien) !
+Mais heureusement, quand la documentation ne suffit pas à nous sortir de l’impasse, il existe l’arme absolue : <a href="https://stackoverflow.com/">stackoverflow.com</a> !
 
-Stack Overflow est un site web qui se présente sous la forme d’un forum de questions réponses liées à la programmation informatique, avec une immense base de thèmes abordés. Selon wikipedia, le site revendiquait pas moins de 10 000 000 de questions en 2015, posées par des programmateurs, aussi bien débutants qu’experts.
+Stack Overflow est un site web qui se présente sous la forme d’un forum de questions réponses liées à la programmation informatique, avec une base immense de thèmes abordés. Selon wikipedia, le site revendiquait pas moins de 10 000 000 de questions en 2015, posées par des programmateurs, aussi bien débutants qu’experts.
 
 Le site s’adressant à de multiples utilisateurs à travers le globe, la seule langue autorisée, ou du moins fortement recommandée, est bien sûr l’anglais. Mais qui dit programmation dit documentation essentiellement disponible en anglais, alors on se fait à l’utilisation de la langue dite universelle, à tel point que pour tout ce qui touche à la programmation, j’effectue désormais l’ensemble de mes recherches de documentation en anglais.
+
 Après quelques recherches m’orientant sur de fausses pistes, des tests infructueux, des heures de tentatives acharnées, j’ai enfin trouvé les mots clés de recherche Google qui allaient me sauver la mise : « android cursor between two edittext ». Un petit lien Stack Overflow plus loin, me voici enfin avec la solution : une simple balise complémentaire  <requestFocus/> à l’intérieur de la balise du widget, au sein de mon fichier xml, et le tour est joué !!!
 
-Photo screen
+<img src="/img/prev1.jpg"/>
 
-Gif youpi
+<img src="https://media.giphy.com/media/9nCW9iugMDG4o/giphy.gif"/>
 
-Toute cette démonstration pour simplement vous informer que j’ai planifié de proposer une première beta de l’application avant octobre. Mais comme vous l’aurez compris, je ne suis pas à l’abri d’un widget récalcitrant, d’une problématique inattendue, ou encore d’un crash du site Stack Overflow ! Alors la beta sera peut être disponible bien après octobre, mais aussi peut être bien avant (un miracle, qui sait…).
+Toute cette démonstration pour simplement vous informer que j’ai planifié de proposer une première bêta de l’application avant octobre. Mais comme vous l’aurez compris, je ne suis pas à l’abri d’un widget récalcitrant, d’une problématique inattendue, ou encore d’un crash du site Stack Overflow ! Alors la bêta sera peut être disponible bien après octobre, mais aussi peut être bien avant (un miracle, qui sait…).
 
-En attendant, je vous annonce que l’application a désormais un nom officiel et un logo ! (dont je garderai le secret jusqu’à la première beta)
+En attendant, je vous annonce que l’application a désormais un nom officiel et un logo ! (dont je garderai le secret jusqu’à la première bêta)
 
-Gif chut
+<img src="https://media.giphy.com/media/l3q2U4wz2o3Nvrr7G/giphy.gif"/>
 
 A bientôt !
