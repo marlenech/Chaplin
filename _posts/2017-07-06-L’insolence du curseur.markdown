@@ -3,7 +3,7 @@
 
 ### 215 jours et 8h06 plus tard...
 
-<img src = "http://gph.is/282NTFq"/>
+<img src = "https://media.giphy.com/media/2rj8VysAig8QE/giphy.gif"/>
 
 En ce moment, je travaille sur les interfaces de l’application !
 
@@ -38,13 +38,13 @@ Chaque ligne contenue dans le widget Textview définie un attribut :
 
 Voilà pour la partie théorique ! Dans la pratique, c’est…
 
-<img src = "http://gph.is/2clyl7o"/>
+<img src = "https://media.giphy.com/media/Z7YWBq9QCLnB6/giphy.gif"/>
 
 Par défaut, certains widgets ne s’affichent pas toujours de la façon dont nous l’aurions imaginé. Il est nécessaire alors d’agir sur les attributs afin d’obtenir le résultat escompté.  
 
 Voici par exemple la façon dont s’affiche une des interfaces de l’application.
 
-<img src="/img/prev1.jpeg"/>
+<img src="../img/prev1.jpeg"/>
 
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… curseur !
 
