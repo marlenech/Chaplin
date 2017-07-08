@@ -9,7 +9,7 @@ En ce moment, je travaille sur les <span class="highlight-span">interfaces</span
 
 Les interfaces sous Android sont essentiellement réalisées sous le format <span class="highlight-span">XML</span>, le code JAVA permettant ensuite de définir la façon dont réagiront les éléments XML. Une interface est représentée dans un <span class="highlight-span">Layout</span> (= vue) qui pourra à son tour contenir un ou plusieurs Layouts, dans le but d’organiser les différents éléments de l’interface et les positionner à l’intérieur de la vue. Un Layout permet par exemple de positionner les éléments dans la vue sur une ligne horizontale, ou verticale (LinearLayout), un autre permet de positionner les éléments les uns par rapport aux autres (RelativeLayout), etc.
 
-Les éléments constituant les interfaces sont représentés par des <span class="highlight-span">widgets</span>. Par exemple, une simple ligne de texte sera représentée par le widget <TextView> et un bouton par le widget Button. 
+Les éléments constituant les interfaces sont représentés par des <span class="highlight-span">widgets</span>. Par exemple, une simple ligne de texte sera représentée par le widget <span class="highlight-span">TextView</span> et un bouton par le widget <span class="highlight-span">Button</span>. 
 
 Voici par exemple une représentation XML du texte « bonjour » :
 
@@ -29,7 +29,7 @@ Chaque ligne contenue dans le widget Textview définit un <span class="highlight
 
 - <span class="highlight-span">android :id</span> = définir une référence pour ce widget afin de nous permettre de l’appeler dans les différents fichiers de l’application,
 
-- <span class="highlight-span">android :layout_width = déterminer la largeur de l’élément. Ici, la largeur sera celle de son élément parent, 
+- <span class="highlight-span">android :layout_width</span> = déterminer la largeur de l’élément. Ici, la largeur sera celle de son élément parent, 
 
 - <span class="highlight-span">android:layout_height</span> = déterminer la hauteur de l’élément. Ici, la hauteur sera la hauteur naturelle de l’élément,
 
@@ -54,7 +54,7 @@ Voici par exemple la façon dont s’affiche une des interfaces de l’applicati
 
 A première vue, les éléments se positionnent correctement les uns par rapport aux autres. Pourtant, j’ai passé plusieurs heures sur cette interface qui semble terminée ! Plusieurs heures pour quoi ? Pour un simple… <span class="highlight-span">curseur</span> !
 
-J’ai inséré deux widgets <EditText> dans l’interface afin de permettre à l’utilisateur de saisir ses <span class="highlight-span">cotisations prévoyance</span> (part salariale & part patronale). Jusqu’ici tout va bien, sauf qu’à l’ouverture de l’interface, c’est le curseur du second EditText qui s’affiche (part patronale), au lieu du premier (part salariale), ce qui apparaîtrait plus logique.
+J’ai inséré deux widgets <span class="highlight-span">EditText</span> dans l’interface afin de permettre à l’utilisateur de saisir ses <span class="highlight-span">cotisations prévoyance</span> (part salariale & part patronale). Jusqu’ici tout va bien, sauf qu’à l’ouverture de l’interface, c’est le curseur du second EditText qui s’affiche (part patronale), au lieu du premier (part salariale), ce qui apparaîtrait plus logique.
 
 J’ai cherché alors parmi tous les attributs du widget comment positionner correctement mon curseur. Dans <span class="highlight-span">Android Studio</span>, il est possible de faire apparaître l’ensemble des attributs disponibles d’un widget par un simple raccourci clavier (ctrl + space). L’inconvénient, c’est que seuls les noms de ces attributs apparaissent, sans leurs définitions. Pour obtenir les définitions, il faut se rendre sur la <span class="highlight-span">documentation Android</span>, disponible <a href="https://developer.android.com/reference/android/widget/EditText.html" >en ligne</a>.
 
