@@ -70,7 +70,7 @@ Stack Overflow est un site web qui se présente sous la forme d’un forum de <s
 
 Le site s’adressant à de multiples utilisateurs à travers le globe, la seule langue autorisée, ou du moins fortement recommandée, est bien sûr <span class="highlight-span">l’anglais</span>. Mais qui dit programmation dit documentation essentiellement disponible en anglais, alors on se fait très vite à l’utilisation de la langue dite universelle, à tel point que pour tout ce qui touche à la programmation, j’effectue désormais l’ensemble de mes recherches de documentation en anglais.
 
-Après quelques recherches m’orientant sur de fausses pistes, des tests infructueux, des heures de tentatives acharnées, un petit lien <a href="https://stackoverflow.com/questions/11226710/how-to-place-cursor-to-certain-edittext-box" >Stack Overflow</a> plus loin, me voici enfin avec la solution : une simple balise complémentaire <span class="highlight-span">requestFocus</span> à l’intérieur de la balise du widget, au sein de mon fichier xml, et le tour est joué !!!
+Après quelques recherches m’orientant sur de fausses pistes, des tests infructueux, des heures de tentatives acharnées, et un petit lien <a href="https://stackoverflow.com/questions/11226710/how-to-place-cursor-to-certain-edittext-box" >Stack Overflow</a> plus tard, me voici enfin avec la solution : une simple balise complémentaire <span class="highlight-span">requestFocus</span> à l’intérieur de la balise du widget, au sein de mon fichier xml, et le tour est joué !!!
 
 <img src="/img/prev1.png"/>
 
