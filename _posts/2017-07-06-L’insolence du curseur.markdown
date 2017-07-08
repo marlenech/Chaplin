@@ -1,11 +1,9 @@
 
-### 215 jours et 8h06 plus tard...
+215 jours et 8h06 plus tard...
 
-<img src = "https://media.giphy.com/media/2rj8VysAig8QE/giphy.gif"/>
+En ce moment, je travaille sur les interfaces de l’application !
 
-En ce moment, je travaille sur les <span class="highlight-span">interfaces</span> de l’application !
-
-Les interfaces sous Android sont essentiellement réalisées sous le format <span class="highlight-span">XML</span>, le code JAVA permettant ensuite de définir la façon dont réagiront les éléments XML. Une interface est représentée dans un <span class="highlight-span">Layout</span> (= vue) qui pourra à son tour contenir un ou plusieurs Layouts, dans le but d’organiser les différents éléments de l’interface et les positionner à l’intérieur de la vue. Un Layout permet par exemple de positionner les éléments dans la vue sur une ligne horizontale, ou verticale (LinearLayout), un autre permet de positionner les éléments les uns par rapport aux autres (RelativeLayout), etc.
+Les interfaces sous Android sont essentiellement réalisées sous le format XML, le code JAVA permettant ensuite de définir la façon dont réagiront les éléments XML. Une interface est représentée dans un <span class="highlight-span">Layout</span> (= vue) qui pourra à son tour contenir un ou plusieurs Layouts, dans le but d’organiser les différents éléments de l’interface et les positionner à l’intérieur de la vue. Un Layout permet par exemple de positionner les éléments dans la vue sur une ligne horizontale, ou verticale (LinearLayout), un autre permet de positionner les éléments les uns par rapport aux autres (RelativeLayout), etc.
 
 Les éléments constituant les interfaces sont représentés par des <span class="highlight-span">widgets</span>. Par exemple, une simple ligne de texte sera représentée par le widget <span class="highlight-span">TextView</span> et un bouton par le widget <span class="highlight-span">Button</span>. 
 
