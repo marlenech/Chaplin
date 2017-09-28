@@ -40,6 +40,6 @@ Voilà, il ne me reste plus qu’à vous laisser tester l’appli tranquillement
 
 <a href="https://play.google.com/apps/testing/brutanet.salaire.italikdesign.com.brutanet">VERSION BETA ICI</a>
 
-N’hésitez pas à tester tous les boutons de l’appli, à vérifier la précision du calcul de conversion avec votre propre bulletin de salaire, et puis à en parler autour de vous, à inviter votre entourage à tester l’appli, etc.
+N’hésitez pas à tester tous les boutons de l’appli, à vérifier la précision du calcul de conversion avec votre propre bulletin de salaire, à me transmettre vos commentaires et suggestions via le Play Store, et puis à en parler autour de vous, à inviter votre entourage à tester l’appli, etc.
 
 A bientôt !
