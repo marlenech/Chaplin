@@ -29,7 +29,7 @@ Aussi, voici les éléments pris en compte dans le calcul de la conversion pour 
 -	Temps de travail : temps partiel, temps plein, forfait jour,
 -	Salaire brut journalier, mensuel ou annuel,
 -	Plafond de la sécurité sociale en fonction de temps de travail et de la périodicité du salaire,
--	Parts salariales et patronales de prévoyance, mutuelle et retraite supplémentaire,
+-	Parts salariales et patronales de prévoyance, mutuelle et retraite supplémentaire (à saisir par l'utilisateur),
 -	Réintégrations sociales et fiscales des parts salariales et patronales de prévoyance, mutuelle et retraite supplémentaire,
 -	Base assujettie à la CSG/CRDS et plafonnement de l’abattement,
 -	Net imposable.
