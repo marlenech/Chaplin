@@ -3,7 +3,7 @@
 ### 300 jours et 2h46 plus tard...
 
 
-Ouf ! Ça y est ! Après une multitude de tests, de résolutions de crash, de NullPointerException (trouver lien stack over flow), j’ai enfin publié une première Bêta de l’appli !
+Ouf ! Ça y est ! Après une multitude de tests, de résolutions de crash, de <a href="https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it" >NullPointerException</a>, j’ai enfin publié une première Bêta de l’appli !
 
 Gif applaudissement
 
