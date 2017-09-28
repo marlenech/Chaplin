@@ -13,7 +13,7 @@ Ainsi, la publication d’une application possède deux phases de tests possible
 
 Les versions Alpha sont généralement moins avancées que les versions Bêta. Il s’agit par exemple de tester une fonctionnalité particulière de l’application. La version Bêta, quant à elle, se rapproche plus de la version finalisée de l’application.
 
-Le but de ces versions tests est de rendre l’application disponible à un <span class="highlight-span">panel d’utilisateurs</span>, soit de manière fermée (avec invitation personnel à un petit nombre d’utilisateurs), soit de manière ouverte.
+Le but de ces versions tests est de rendre l’application disponible à un <span class="highlight-span">panel d’utilisateurs</span>, soit de manière fermée (avec invitation personnelle à un petit nombre d’utilisateurs), soit de manière ouverte.
 
 Pour mon application, je ne suis pas passée par une phase de test Alpha pour le moment, n’ayant pas réellement de fonctionnalités isolées à tester. L’objet de l’application, soit la conversion d’un salaire, nécessitant une version plutôt aboutie de l’application pour fonctionner, une première version Bêta était alors davantage justifiée.
 
